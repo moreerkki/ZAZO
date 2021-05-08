@@ -149,7 +149,6 @@ bookmarks = {
 			focuses = {
 				SOV_great_purge
 				SOV_stalin_constitution
-				SOV_war_with_germany
 			}	
 		}
 
