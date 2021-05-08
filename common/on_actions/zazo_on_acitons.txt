@@ -1,0 +1,41 @@
+on_actions = {
+    on_startup = {
+			effect = {
+
+				every_other_country = { 
+				if = {
+				limit= {
+			
+					OR = {
+						tag = YUG
+						tag = GRE
+						tag = CZE
+						tag = POL
+						tag = BEL
+						tag = HOL
+						tag = DEN
+						tag = NOR
+						tag = LUX
+						tag = FIN
+						tag = MEX
+						tag = TAG
+						tag = MEN
+						tag = MAN
+						tag = MON
+						tag = TAN
+						tag = INS
+						tag = MAL
+						tag = PHI
+						tag = ALB
+						tag = EST
+						tag = LIT
+						tag = LAT
+						tag = IRQ
+						}			
+					}
+						add_ideas = zazo_balance
+				}
+				
+			}
+		}
+	}

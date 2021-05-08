@@ -1,0 +1,28 @@
+SpriteTypes = {
+####Weapons####
+	SpriteType = {
+	    name = "GFX_BEL_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/BEL/BEL_rifle_mauser1889.dds"
+	}
+	SpriteType = {
+		name = "GFX_BEL_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/BEL/BEL_rifle_fusil_mle1935.dds"
+	}
+	SpriteType = {
+		name = "GFX_BEL_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/BEL/BEL_smg_mi34pm.dds"
+	}
+	SpriteType = {
+		name = "GFX_BEL_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/BEL/BEL_assault_rifle_fn49.dds"
+	}
+####Transport####	
+	SpriteType = {
+		name = "GFX_BEL_motorised_infantry_medium"
+		texturefile = "gfx/interface/technologies/BEL/BEL_motorized_denonville.dds"
+	}		
+    SpriteType = {
+        name = "GFX_BEL_motorized_equipment_1_medium"
+        texturefile = "gfx/interface/technologies/BEL/BEL_motorized_denonville.dds"
+    }
+}	

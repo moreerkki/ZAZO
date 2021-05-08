@@ -1,0 +1,2 @@
+TUR_ottoman_plan = {
+}

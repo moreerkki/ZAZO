@@ -1,0 +1,101 @@
+#################
+#hitlerspeeches#
+#################
+
+soundeffect = {
+	name = "sp_anschluss"
+	sounds = {
+		sound = 
+			sp_anschluss
+	}
+	volume = 1
+}
+
+soundeffect = {
+	name = "sp_dday"
+	sounds = {
+		sound = 
+			sp_dday
+	}
+	volume = 3
+}
+
+soundeffect = {
+	name = "sp_declearwarpoland"
+	sounds = {
+		sound = sp_declearwarpoland
+	}
+	volume = 3
+}
+
+soundeffect = {
+	name = "sp_neversur"
+	sounds = {
+		sound = sp_neversur
+	}
+	volume = 3
+}
+
+soundeffect = {
+	name = "sp_sovietanthem"
+	sounds = {
+		sound = sp_sovietanthem
+	}
+	volume = 8
+}
+
+soundeffect = {
+	name = "sp_cairo"
+	sounds = {
+		sound = sp_cairo
+	}
+	volume = 1
+}
+
+soundeffect = {
+	name = "sp_allieswin"
+	sounds = {
+		sound = sp_allieswin
+	}
+	volume = 1
+}
+
+soundeffect = {
+	name = "sp_japantheme"
+	sounds = {
+		sound = sp_japantheme
+	}
+	volume = 1
+}
+
+soundeffect = {
+	name = "sp_itajoinwars"
+	sounds = {
+		sound = sp_itajoinwars
+	}
+	volume = 3
+}
+
+soundeffect = {
+	name = "sp_marcobridge"
+	sounds = {
+		sound = sp_marcobridge
+	}
+	volume = 1
+}
+
+soundeffect = {
+	name = "sp_nein"
+	sounds = {
+		sound = sp_nein
+	}
+	volume = 10
+}
+
+soundeffect = {
+	name = "sp_order227"
+	sounds = {
+		sound = sp_order227
+	}
+	volume = 1
+}

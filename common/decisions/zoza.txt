@@ -1,0 +1,100 @@
+political_actions = {
+	
+	annex_manchu = {
+
+		icon = GFX_decision_generic_civil_support
+
+		available = {
+			MAN = {
+			is_ai = yes
+		   }
+			TAG = JAP
+
+		}
+
+		visible = {
+			
+			MAN = {
+			is_ai = yes
+			}
+			MAN = {
+			exists = yes
+			}
+			
+			TAG = JAP
+			
+		}
+
+		fire_only_once = yes
+
+		modifier = {
+	
+			
+		}
+
+		cost = 0
+		days_remove = 0
+		days_re_enable = 0
+
+		complete_effect = {
+			annex_country = {
+			target = MAN
+			}
+			annex_country = {
+			target = MEN
+			}
+			611 = {set_compliance = 100}
+			612 = {set_compliance = 100}
+			610 = {set_compliance = 100}
+			715 = {set_compliance = 100}
+			716 = {set_compliance = 100}
+			761 = {set_compliance = 100}
+			714 = {set_compliance = 100}
+			328 = {set_compliance = 100}
+			717 = {set_compliance = 100}
+			
+		}
+
+	}
+	
+	arab_war = {
+
+        icon = generic_prepare_civil_war
+
+        allowed = {
+            tag = ITA
+        }
+        available = {
+            ENG = {
+				NOT = {
+					controls_state = 446
+				}
+            }
+        }
+        visible = {
+            ITA = {
+				has_war_with = ENG
+			}
+        }
+        cost = 50
+        fire_only_once = yes
+        ai_will_do = {
+            factor = 0
+        }
+        complete_effect = {
+            declare_war_on = {
+				target = IRQ
+					type = annex_everything
+					}
+        }
+	}	
+	
+	
+	
+}
+
+
+
+	
+
+	

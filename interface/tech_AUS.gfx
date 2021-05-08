@@ -1,0 +1,19 @@
+spriteTypes = {
+####Weapons####
+	SpriteType = {
+	    name = "GFX_AUS_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/AUS/AUS_rifle_steyr_M95_30.dds"
+	}
+	SpriteType = {
+		name = "GFX_AUS_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/AUS/AUS_rifle_steyr_stutzen_m95_30.dds"
+	}
+	SpriteType = {
+		name = "GFX_AUS_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/AUS/AUS_smg_mp_34.dds"
+	}
+	SpriteType = {
+		name = "GFX_AUS_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/GER/GER_stg44.dds"
+	}		
+}	

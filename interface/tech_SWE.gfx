@@ -1,0 +1,144 @@
+spriteTypes = {
+####Weapons####
+	SpriteType = {
+	    name = "GFX_SWE_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SWE/SWE_rifle_gevar_m_1896.dds"
+	}
+	SpriteType = {
+		name = "GFX_SWE_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SWE/SWE_rifle_gevar_m_1938.dds"
+	}
+	SpriteType = {
+		name = "GFX_SWE_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SWE/SWE_smg_kulsprutepistol_m_37.dds"
+	}
+	SpriteType = {
+		name = "GFX_SWE_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SWE/SWE_rifle_automatgevar_m_42.dds"
+	}	
+####Fighter####	
+	SpriteType = {
+		name = "GFX_SWE_early_fighter_medium"
+		texturefile = "gfx/interface/technologies/SWE/AIR/SWE_fighter_0.dds"
+		}	
+	SpriteType = {
+		name = "GFX_SWE_fighter1_medium"
+		texturefile = "gfx/interface/technologies/SWE/AIR/SWE_fighter_1.dds"
+	}	
+	SpriteType = {
+		name = "GFX_SWE_fighter2_medium"
+		texturefile = "gfx/interface/technologies/SWE/AIR/SWE_fighter_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_SWE_fighter3_medium"
+		texturefile = "gfx/interface/technologies/SWE/AIR/SWE_fighter_3.dds"
+	}
+####CAS####	
+	SpriteType = {
+		name = "GFX_SWE_CAS1_medium"
+		texturefile = "gfx/interface/technologies/SWE/AIR/SWE_CAS_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_SWE_CAS2_medium"
+		texturefile = "gfx/interface/technologies/SWE/AIR/SWE_CAS_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_SWE_CAS3_medium"
+		texturefile = "gfx/interface/technologies/GEN/AIR/GEN_CAS_3.dds"
+	}	
+####Naval Bomber####	
+	SpriteType = {
+		name = "GFX_SWE_naval_bomber1_medium"
+		texturefile = "gfx/interface/technologies/GEN/AIR/GEN_nav_1.dds"
+	}		
+	SpriteType = {
+		name = "GFX_SWE_naval_bomber2_medium"
+		texturefile = "gfx/interface/technologies/GEN/AIR/GEN_nav_2.dds"
+	}		
+	SpriteType = {
+		name = "GFX_SWE_naval_bomber3_medium"
+		texturefile = "gfx/interface/technologies/GEN/AIR/GEN_nav_3.dds"
+	}
+####Heavy Fighter####	
+	SpriteType = {
+		name = "GFX_SWE_heavy_fighter1_medium"
+		texturefile = "gfx/interface/technologies/SWE/AIR/SWE_heavy_fighter_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_SWE_heavy_fighter2_medium"
+		texturefile = "gfx/interface/technologies/SWE/AIR/SWE_heavy_fighter_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_SWE_heavy_fighter3_medium"
+		texturefile = "gfx/interface/technologies/SWE/AIR/SWE_heavy_fighter_3.dds"
+	}
+####Tac Bomber####	
+	SpriteType = {
+		name = "GFX_SWE_early_bomber_medium"
+		texturefile = "gfx/interface/technologies/SWE/AIR/SWE_bomber_0.dds"
+	}		
+	SpriteType = {
+		name = "GFX_SWE_tactical_bomber1_medium"
+		texturefile = "gfx/interface/technologies/SWE/AIR/SWE_bomber_1.dds"
+	}			
+	SpriteType = {
+		name = "GFX_SWE_tactical_bomber2_medium"
+		texturefile = "gfx/interface/technologies/SWE/AIR/SWE_bomber_2.dds"
+	}			
+	SpriteType = {
+		name = "GFX_SWE_tactical_bomber3_medium"
+		texturefile = "gfx/interface/technologies/SWE/AIR/SWE_bomber_3.dds"
+	}	
+####Strat Bomber####	
+    SpriteType = {
+		name = "GFX_SWE_strategic_bomber1_medium"
+		texturefile = "gfx/interface/technologies/GEN/AIR/GEN_strat_1.dds"
+	}	
+    SpriteType = {
+		name = "GFX_SWE_strategic_bomber2_medium"
+		texturefile = "gfx/interface/technologies/GEN/AIR/GEN_strat_2.dds"
+	}			
+	SpriteType = {
+		name = "GFX_SWE_strategic_bomber3_medium"
+		texturefile = "gfx/interface/technologies/GEN/AIR/GEN_strat_3.dds"
+	}
+####CV Fighter####	
+	SpriteType = {
+		name = "GFX_SWE_cv_early_fighter_medium"
+		texturefile = "gfx/interface/technologies/GEN/AIR/GEN_cv_fighter_0.dds"
+		}	
+    SpriteType = {
+        name = "GFX_SWE_cv_fighter1_medium"
+        texturefile = "gfx/interface/technologies/GEN/AIR/GEN_cv_fighter_1.dds"
+    }
+    SpriteType = {
+        name = "GFX_SWE_cv_fighter2_medium"
+        texturefile = "gfx/interface/technologies/GEN/AIR/GEN_cv_fighter_2.dds"
+    }
+    SpriteType = {
+        name = "GFX_SWE_cv_fighter3_medium"
+        texturefile = "gfx/interface/technologies/GEN/AIR/GEN_cv_fighter_3.dds"
+    }
+####CV Nav Bomber####	
+    SpriteType = {
+        name = "GFX_SWE_cv_naval_bomber1_medium"
+        texturefile = "gfx/interface/technologies/GEN/AIR/GEN_cv_nav_1.dds"
+    }	
+    SpriteType = {
+        name = "GFX_SWE_cv_naval_bomber2_medium"
+        texturefile = "gfx/interface/technologies/GEN/AIR/GEN_cv_nav_2.dds"
+    }		
+	SpriteType = {
+        name = "GFX_SWE_cv_naval_bomber3_medium"
+        texturefile = "gfx/interface/technologies/GEN/AIR/GEN_cv_nav_3.dds"
+    }
+####Jet Fighter####
+	SpriteType = {
+		name = "GFX_SWE_jet_fighter1_medium"
+		texturefile = "gfx/interface/technologies/SWE/AIR/SWE_jet_fighter_1.dds"
+	}
+    SpriteType = {
+		name = "GFX_SWE_jet_fighter2_medium"
+		texturefile = "gfx/interface/technologies/SWE/AIR/SWE_jet_fighter_2.dds"
+	}	
+}	

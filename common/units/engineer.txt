@@ -1,0 +1,65 @@
+sub_units = {
+	engineer = {
+		sprite = infantry
+		map_icon_category = infantry
+		priority = 0
+		ai_priority = 0
+		active = no
+		affects_speed = no
+
+		type = {
+			infantry
+			support
+		}
+		
+		group = support
+		
+		categories = {
+			category_front_line
+			category_support_battalions
+			category_army
+		}
+
+	
+		combat_width = 0
+	
+		#Size Definitions
+		max_strength = 2
+		max_organisation = 20
+		default_morale = 0.1.3
+		manpower = 300
+		training_time = 120
+
+		#Misc Abilities
+		weight = 0.1
+		supply_consumption = 0.02
+		
+		entrenchment  = 5
+
+		essential = {
+			support_equipment
+		}
+
+		need = {
+			support_equipment = 20
+		}
+
+		can_be_parachuted = yes
+
+		forest = {
+			defence = 0.1
+		}
+
+		hills = {
+			defence = 0.1
+		}
+
+		jungle = {
+			defence = 0.1
+		}
+
+		marsh = {
+			defence = 0.1
+		}
+	}
+}

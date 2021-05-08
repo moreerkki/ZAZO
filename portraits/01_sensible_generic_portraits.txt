@@ -1,0 +1,1719 @@
+continent = {
+	name = asia
+	army = {
+		male = {
+			"gfx/leaders/Army/Portrait_Portrait_Tokugawa_Iesato.dds" #Japanese politician, NOT in-game
+		}
+	}
+	political = {
+		communism = {
+				male = { 
+					"gfx/leaders/Political/asiaaniversary_Portrait_Asia_Generic_1.dds"
+					"gfx/leaders/Political/asiaaniversary_Portrait_Asia_Generic_2.dds"
+					"gfx/leaders/Political/asiaaniversary_Portrait_Asia_Generic_3.dds"
+					"gfx/leaders/Political/asiaaniversary_Portrait_Asia_Generic_4.dds"
+					"gfx/leaders/Political/expas_Portrait_Asia_Generic_1_communism.dds"
+					"gfx/leaders/Political/expas_Portrait_Asia_Generic_2_communism.dds"
+					"gfx/leaders/Political/Portrait_U_Nu.dds" #Burmese politician, NOT in-game
+					"gfx/leaders/Political/portrait__zhau_enlai.dds" #chinese politican, NOT in-game
+			}
+		}
+		democratic = {
+				male = { 
+					"gfx/leaders/Political/asiaaniversary_Portrait_Asia_Generic_1.dds"
+					"gfx/leaders/Political/asiaaniversary_Portrait_Asia_Generic_2.dds"
+					"gfx/leaders/Political/asiaaniversary_Portrait_Asia_Generic_3.dds"
+					"gfx/leaders/Political/asiaaniversary_Portrait_Asia_Generic_4.dds"
+					"gfx/leaders/Political/expas_Portrait_Asia_Generic_1_democracy.dds"
+					"gfx/leaders/Political/expas_Portrait_Asia_Generic_2_democracy.dds"
+					"gfx/leaders/Political/Portrait_Japan_Koki_Hirota.dds" #Japanese prime minister, NOT in-game
+					"gfx/leaders/Political/Portrait_U_Nu.dds"
+			}
+		}
+		fascism = {
+				male = { 
+					"gfx/leaders/Political/asiaaniversary_Portrait_Asia_Generic_1.dds"
+					"gfx/leaders/Political/asiaaniversary_Portrait_Asia_Generic_2.dds"
+					"gfx/leaders/Political/asiaaniversary_Portrait_Asia_Generic_3.dds"
+					"gfx/leaders/Political/asiaaniversary_Portrait_Asia_Generic_4.dds"
+					"gfx/leaders/Political/expas_Portrait_Asia_Generic_1_fascism.dds"
+					"gfx/leaders/Political/expas_Portrait_Asia_Generic_2_fascism.dds"
+					"gfx/leaders/Political/Portrait_Japan_Fumimaro_Konoe.dds" #Japanese prime minister
+					"gfx/leaders/Political/Portrait_Japan_Keisuke_Okada.dds" #Japanese prime minister		
+					"gfx/leaders/Political/Portrait_U_Nu.dds"					
+			}
+		}
+		neutrality = {
+				male = { 
+					"gfx/leaders/Political/asiaaniversary_Portrait_Asia_Generic_1.dds"
+					"gfx/leaders/Political/asiaaniversary_Portrait_Asia_Generic_2.dds"
+					"gfx/leaders/Political/asiaaniversary_Portrait_Asia_Generic_3.dds"
+					"gfx/leaders/Political/asiaaniversary_Portrait_Asia_Generic_4.dds"
+					"gfx/leaders/Political/expas_Portrait_Asia_Generic_1_fascism.dds"
+					"gfx/leaders/Political/expas_Portrait_Asia_Generic_2_fascism.dds"
+					"gfx/leaders/Political/Portrait_Japan_Fumimaro_Konoe.dds"
+					"gfx/leaders/Political/Portrait_Japan_Keisuke_Okada.dds"
+					"gfx/leaders/Political/Portrait_Japan_Koki_Hirota.dds"
+					"gfx/leaders/Political/Portrait_U_Nu.dds"
+			}
+		}
+	}	
+}
+
+continent = {
+	name = europe
+	army = {
+		male = {
+			"gfx/leaders/Army/Portrait_Andrew_McNaughton.dds" #Canadian general, NOT in-game
+			"gfx/leaders/Army/Portrait_Georgi_Nikolov_Popov.dds" #Bulgarian general, NOT in-game
+			"gfx/leaders/Army/Portrait_Guy_Simonds.dds" #Canadian general, NOT in-game
+			"gfx/leaders/Army/Portrait_Harry_Crerar.dds" #Canadian general, NOT in-game
+			"gfx/leaders/Army/Portrait_Jakob_Harberts.dds" #Dutch general, NOT in-game
+			"gfx/leaders/Army/portrait_Jan_Van_Andel.dds" #Dutch general, NOT in-game
+			"gfx/leaders/Army/Portrait_Carl_Gustaf_Fleischer.dds" #Norwegian general, NOT in-game
+			"gfx/leaders/Army/Portrait_Folke_Bernadotte.dds" #Swedish general, NOT in-game
+			"gfx/leaders/Army/Portrait_Charles_Lockwood.dds" #American general, NOT in-game
+			"gfx/leaders/Army/Portrait_Ronald_Scobie.dds" #British general, NOT in-game
+			"gfx/leaders/Army/Portrait_Richard_McCreery.dds" #British general, NOT in-game
+			"gfx/leaders/Army/Portrait_Kenneth_Anderson.dds" #British general, NOT in-game
+			"gfx/leaders/Army/Portrait_John_Dill.dds" #British general, NOT in-game
+			"gfx/leaders/Army/Portrait_John_Crocker.dds" #British general, NOT in-game
+			"gfx/leaders/Army/Portrait_Herbert_Lumsden.dds" #British general, NOT in-game
+			"gfx/leaders/Army/Portrait_Frederick_Browning.dds" #British general, NOT in-game
+			"gfx/leaders/Army/Portrait_Edmond_Schreiber.dds" #British general, NOT in-game
+			"gfx/leaders/Army/Portrait_Bernard_Paget.dds" #British general, NOT in-game
+			"gfx/leaders/Army/Portrait_Austria_Alfred_Jansa.dds" #Austrian general, NOT in-game
+			"gfx/leaders/Army/Portrait_Austria_Alois_Schonburg_Hartenstein.dds" #Austrian general, NOT in-game
+			"gfx/leaders/Army/Portrait_Austria_Eduard_Barger.dds" #Austrian general, NOT in-game
+			"gfx/leaders/Army/Portrait_Austria_Franz_Bohme.dds" #Austrian general, NOT in-game
+			"gfx/leaders/Army/Portrait_Austria_Karl_Eglseer.dds" #Austrian general, NOT in-game
+			"gfx/leaders/Army/Portrait_Austria_Siegmund_Knaus.dds" #Austrian general, NOT in-game
+			"gfx/leaders/Army/Portrait_Austria_Sigismund_Schilhawsky.dds" #Austrian general, NOT in-game
+			"gfx/leaders/Army/Portrait_Canada_Thomas_Victor_Anderson.dds" #Canadian general, NOT in-game
+			"gfx/leaders/Army/Portrait_Britain_Edmund_Ironside.dds" #British general, NOT in-game
+			"gfx/leaders/Army/Portrait_Britain_Percy_Hobart.dds" #British general, NOT in-game
+			"gfx/leaders/Army/Portrait_Norway_Otto_Ruge.dds" #Norwegian general, NOT in-game
+			"gfx/leaders/Army/Portrait_Vilho_Petter_Nenonen.dds" #Finnish general, NOT in-game
+			"gfx/leaders/Army/Portrait_Erik_Heinrichs.dds" #Finnish general, NOT in-game
+			"gfx/leaders/Army/Portrait_Aleksandr_Vasilevsky.dds" #Soviet general, exists in-game
+			"gfx/leaders/Army/Portrait_Humberto_Sosa_Molina.dds" #Argentinian general, NOT in-game
+		
+			
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Navy/Portrait_Arthur_Palliser.dds" #British admiral, NOT in-game
+			"gfx/leaders/Navy/Portrait_Max_Horton.dds" #British admiral, NOT in-game
+			"gfx/leaders/Navy/Portrait_Percy_Noble.dds" #British admiral, NOT in-game
+			"gfx/leaders/Navy/Portrait_Tom_Phillips.dds" #British admiral, NOT in-game
+			"gfx/leaders/Navy/Portrait_Britain_Louis_Mountbatten.dds" #British admiral, NOT in-game
+			"gfx/leaders/Navy/Portrait_France_Emile_Muselier.dds" #French admiral, NOT in-game
+			"gfx/leaders/Navy/Portrait_Holland_Hubert_von_Frijtag_Drabbe.dds" #Dutch admiral, NOT in-game
+			"gfx/leaders/Navy/Portrait_Georg_von_Trapp.dds" #Austrian admiral, NOT in-game
+			"gfx/leaders/Navy/Portrait_Johan_Pitka.dds" #Estonian admiral, NOT in-game
+			
+		}
+	}
+
+	political = {
+		communism = {
+				male = { 
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_1.dds" #Belarussian communist, exists in-game
+					"gfx/leaders/Political/portrait_kaz_ilyas_zhansugurov.dds" #Kazakh democract, exists in-game
+					"gfx/leaders/Political/portrait_kaz_nikolay_skvortsov.dds" #Kazakh communist, exists in-game
+					"gfx/leaders/Political/portrait_lat_fricis_menders.dds" #Latvian democrat, exists in-game
+					"gfx/leaders/Political/portrait_lat_vilis_lacis.dds" #Latvian communist, exists in-game
+					"gfx/leaders/Political/Portrait_Konstantinos.dds" #Greek fascist, NOT in-game
+					"gfx/leaders/Political/Portrait_Konstantinos_Demertzis.dds" #Greek democract, NOT in-game
+					"gfx/leaders/Political/Portrait_Ramsay_MacDonald.dds" #British democrat, NOT in-game
+					"gfx/leaders/Political/Portrait_Vasily_Stalin.dds" #Soviet communist, NOT in-game
+					"gfx/leaders/Political/Portrait_Pershing.dds" #American general, NOT in-game
+					"gfx/leaders/Political/Portrait_Ioannes_Rallis.dds" #Greek fascist, NOT in-game
+					"gfx/leaders/Political/Portrait_Thomas_Mann.dds" #German communist, NOT in-game
+					"gfx/leaders/Political/Portrait_Nikolai_Bukharin.dds" #Soviet communist, NOT in-game
+					"gfx/leaders/Political/Portrait_Hans_Bleimer.dds" #German communist, NOT in-game
+					"gfx/leaders/Political/Portrait_Alexander_Kerensky.dds" #Russian democrat, NOT in-game
+					"gfx/leaders/Political/Portrait_Aimo_Aaltonen.dds" #Finnish communist, NOT in-game
+					"gfx/leaders/Political/Portrait_Vilho_Annala.dds" #Finnish fascist, NOT in-game
+					"gfx/leaders/Political/Portrait_Albert_Lebrun.dds" #French politician, NOT in-game
+					"gfx/leaders/Political/Portrait_Francesc_Macia.dds" #Spanish politician, NOT in-game
+					"gfx/leaders/Political/Portrait_Vyacheslav_Molotov.dds" #Soviet communist, NOT in-game
+					"gfx/leaders/Political/Portrait_Niceto_AlcaláZamora.dds" #Spanish democrat, NOT in-game
+					"gfx/leaders/Political/Portrait_MacArthur_Alternate.dds" #American democrat, NOT in-game
+					"gfx/leaders/Political/Portrait_Camille_Chautemps.dds" #French communist, NOT in-game
+					"gfx/leaders/Political/Portrait_Axel_PehrssonBramstorp.dds" #Swedish democrat, NOT in-game
+					"gfx/leaders/Political/Portrait_Vicente_Risco.dds" #Spanish democrat, NOT in-game
+					"gfx/leaders/Political/Portrait_Lluis_Companys.dds" #Catalan politician, NOT in-game
+					"gfx/leaders/Political/Portrait_Francisco_Caballero.dds" #Spanish politician, NOT in-game
+					"gfx/leaders/Political/Portrait_Juan_Borbon.dds" #Spanish aristocrat, NOT in-game
+					"gfx/leaders/Political/Portrait_Ludwig_Kaas.dds" #German politician, NOT in-game
+					"gfx/leaders/Political/Portrait_Nimio_Anquin.dds" #Argentinian politician, NOT in-game
+					"gfx/leaders/Political/Portrait_Tomáš_Garrigue_Masaryk.dds" #Czech politician, NOT in-game
+					"gfx/leaders/Political/Portrait_Luis_Carlos_Prestes.dds" #Brazilian politician, NOT in-game
+					"gfx/leaders/Political/portrait_aksel_larsen.dds" #Danish politican, NOT in-game
+					
+			}
+		}
+		democratic = {
+				male = { 
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_2.dds" #Horthy's son, NOT in-game
+					"gfx/leaders/Political/Portrait_Britain_Austen_Chamberlain.dds" #Neville's brother, NOT in-game
+					"gfx/leaders/Political/portrait_kaz_ilyas_zhansugurov.dds"
+					"gfx/leaders/Political/portrait_kaz_nikolay_skvortsov.dds"
+					"gfx/leaders/Political/portrait_ice_sveinn_bjornsson.dds" #Icelandic democrat, exists in-game
+					"gfx/leaders/Political/portrait_lat_fricis_menders.dds"
+					"gfx/leaders/Political/portrait_lat_vilis_lacis.dds"
+					"gfx/leaders/Political/Portrait_Juan_Andreu.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos.dds"
+					"gfx/leaders/Political/Portrait_Britain_David_Lloyd_George.dds" #British politican, NOT in-game
+					"gfx/leaders/Political/Portrait_Konstantinos_Demertzis.dds"
+					"gfx/leaders/Political/Portrait_Ramsay_MacDonald.dds"
+					"gfx/leaders/Political/Portrait_Pershing.dds"
+					"gfx/leaders/Political/Portrait_Ioannes_Rallis.dds"
+					"gfx/leaders/Political/Portrait_Thomas_Mann.dds"
+					"gfx/leaders/Political/Portrait_Alexander_Kerensky.dds"
+					"gfx/leaders/Political/Portrait_Aimo_Aaltonen.dds"
+					"gfx/leaders/Political/Portrait_Vilho_Annala.dds"
+					"gfx/leaders/Political/Portrait_Albert_Lebrun.dds"
+					"gfx/leaders/Political/Portrait_Francesc_Macia.dds"
+					"gfx/leaders/Political/Portrait_Vyacheslav_Molotov.dds"
+					"gfx/leaders/Political/Portrait_Niceto_AlcaláZamora.dds"
+					"gfx/leaders/Political/Portrait_MacArthur_Alternate.dds"
+					"gfx/leaders/Political/Portrait_Camille_Chautemps.dds"
+					"gfx/leaders/Political/Portrait_Axel_PehrssonBramstorp.dds"
+					"gfx/leaders/Political/Portrait_Vicente_Risco.dds"
+					"gfx/leaders/Political/Portrait_Lluis_Companys.dds"
+					"gfx/leaders/Political/Portrait_Francisco_Caballero.dds"
+					"gfx/leaders/Political/Portrait_Juan_Borbon.dds"
+					"gfx/leaders/Political/Portrait_Ludwig_Kaas.dds"
+					"gfx/leaders/Political/Portrait_Nimio_Anquin.dds"
+					"gfx/leaders/Political/Portrait_Tomáš_Garrigue_Masaryk.dds"
+					"gfx/leaders/Political/Portrait_Luis_Carlos_Prestes.dds"
+					"gfx/leaders/Political/portrait_aksel_larsen.dds"
+			}
+		}
+		fascism = {
+				male = { 
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_1.dds"
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_2.dds"
+					"gfx/leaders/Political/Portrait_Britain_Austen_Chamberlain.dds"
+					"gfx/leaders/Political/portrait_fin_carl_mannerheim.dds" #Finnish marshal, NOT in-game
+					"gfx/leaders/Political/portrait_lat_fricis_menders.dds"
+					"gfx/leaders/Political/portrait_lat_vilis_lacis.dds"
+					"gfx/leaders/Political/Portrait_Juan_Andreu.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos.dds"
+					"gfx/leaders/Political/Portrait_Germany_Arthur_Seyss-Inquart.dds" #German Reichskommissar
+					"gfx/leaders/Political/Portrait_Germany_Erich_Koch.dds" #German Reichskommissar
+					"gfx/leaders/Political/Portrait_Germany_Hinrich_Lohse.dds" #German Reichskommissar
+					"gfx/leaders/Political/Portrait_Germany_Josef_Grohe.dds" #German Reichskommissar
+					"gfx/leaders/Political/Portrait_Germany_Josef_Terboven.dds" #German Reichskommissar
+					"gfx/leaders/Political/Portrait_Konstantinos_Demertzis.dds"
+					"gfx/leaders/Political/Portrait_Ramsay_MacDonald.dds"
+					"gfx/leaders/Political/Portrait_Pershing.dds"
+					"gfx/leaders/Political/Portrait_Ioannes_Rallis.dds"
+					"gfx/leaders/Political/Portrait_Thomas_Mann.dds"
+					"gfx/leaders/Political/Portrait_Arthur_Greiser.dds" #German fascist, NOT in-game
+					"gfx/leaders/Political/Portrait_Alexander_Kerensky.dds"
+					"gfx/leaders/Political/Portrait_Aimo_Aaltonen.dds"
+					"gfx/leaders/Political/Portrait_Vilho_Annala.dds"
+					"gfx/leaders/Political/Portrait_Albert_Lebrun.dds"
+					"gfx/leaders/Political/Portrait_Francesc_Macia.dds"
+					"gfx/leaders/Political/Portrait_Vyacheslav_Molotov.dds"
+					"gfx/leaders/Political/Portrait_Niceto_AlcaláZamora.dds"
+					"gfx/leaders/Political/Portrait_MacArthur_Alternate.dds"
+					"gfx/leaders/Political/Portrait_Camille_Chautemps.dds"
+					"gfx/leaders/Political/Portrait_Axel_PehrssonBramstorp.dds"
+					"gfx/leaders/Political/Portrait_Vicente_Risco.dds"
+					"gfx/leaders/Political/Portrait_Lluis_Companys.dds"
+					"gfx/leaders/Political/Portrait_Francisco_Caballero.dds"
+					"gfx/leaders/Political/Portrait_Juan_Borbon.dds"
+					"gfx/leaders/Political/Portrait_Ludwig_Kaas.dds"
+					"gfx/leaders/Political/Portrait_Nimio_Anquin.dds"
+					"gfx/leaders/Political/Portrait_Tomáš_Garrigue_Masaryk.dds"
+					"gfx/leaders/Political/Portrait_Luis_Carlos_Prestes.dds"
+					"gfx/leaders/Political/Portrait_Hugo_Schwab.dds" #Romanian general, NOT in-game
+					"gfx/leaders/Political/portrait_aksel_larsen.dds"
+			}
+		}
+		neutrality = {
+				male = { 
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_1.dds"
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_2.dds"
+					"gfx/leaders/Political/Portrait_Britain_Austen_Chamberlain.dds"
+					"gfx/leaders/Political/portrait_fin_carl_mannerheim.dds"
+					"gfx/leaders/Political/portrait_lat_fricis_menders.dds"
+					"gfx/leaders/Political/portrait_lat_vilis_lacis.dds"
+					"gfx/leaders/Political/Portrait_Jan_Syrovydds.dds" #Czechoslovak politician and general, NOT in-game
+					"gfx/leaders/Political/Portrait_Juan_Andreu.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos.dds"
+					"gfx/leaders/Political/Portrait_Britain_David_Lloyd_George.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos_Demertzis.dds"
+					"gfx/leaders/Political/Portrait_Ramsay_MacDonald.dds"
+					"gfx/leaders/Political/Portrait_Pershing.dds"
+					"gfx/leaders/Political/Portrait_Ioannes_Rallis.dds"
+					"gfx/leaders/Political/Portrait_Thomas_Mann.dds"
+					"gfx/leaders/Political/Portrait_Nikolai_Bukharin.dds"
+					"gfx/leaders/Political/Portrait_Alexander_Kerensky.dds"
+					"gfx/leaders/Political/Portrait_Aimo_Aaltonen.dds"
+					"gfx/leaders/Political/Portrait_Vilho_Annala.dds"
+					"gfx/leaders/Political/Portrait_Albert_Lebrun.dds"
+					"gfx/leaders/Political/Portrait_Francesc_Macia.dds"
+					"gfx/leaders/Political/Portrait_Vyacheslav_Molotov.dds"
+					"gfx/leaders/Political/Portrait_Niceto_AlcaláZamora.dds"
+					"gfx/leaders/Political/Portrait_MacArthur_Alternate.dds"
+					"gfx/leaders/Political/Portrait_Camille_Chautemps.dds"
+					"gfx/leaders/Political/Portrait_Axel_PehrssonBramstorp.dds"
+					"gfx/leaders/Political/Portrait_Vicente_Risco.dds"
+					"gfx/leaders/Political/Portrait_Lluis_Companys.dds"
+					"gfx/leaders/Political/Portrait_Francisco_Caballero.dds"
+					"gfx/leaders/Political/Portrait_Juan_Borbon.dds"
+					"gfx/leaders/Political/Portrait_Carlos_Pio.dds" #Spanish aristocrat, NOT in-game
+					"gfx/leaders/Political/Portrait_Ludwig_Kaas.dds"
+					"gfx/leaders/Political/Portrait_Nimio_Anquin.dds"
+					"gfx/leaders/Political/Portrait_Tomáš_Garrigue_Masaryk.dds"
+					"gfx/leaders/Political/Portrait_Luis_Carlos_Prestes.dds"
+					"gfx/leaders/Political/portrait_haakonvii.dds" #Norwegian royalty, NOT in-game
+					"gfx/leaders/Political/portrait_otto_ruge.dds" #Norwegian military leader, NOT in-game
+			}
+		}
+	}	
+}
+
+continent = {
+	name = africa
+	political = {
+		communism = {
+				male = { 
+					"gfx/leaders/Political/Portrait_France_Felix_Eboue.dds" #French general, NOT in-game
+					"gfx/leaders/Political/Portrait_Haile_Selassie_Gugsa.dds" #Ethiopian royal, NOT in-game
+			}
+		}
+		democratic = {
+				male = { 
+					"gfx/leaders/Political/Portrait_France_Felix_Eboue.dds"
+					"gfx/leaders/Political/Portrait_Haile_Selassie_Gugsa.dds"
+			}
+		}
+		fascism = {
+				male = { 
+					"gfx/leaders/Political/Portrait_France_Felix_Eboue.dds"
+					"gfx/leaders/Political/Portrait_Haile_Selassie_Gugsa.dds"
+			}
+		}
+		neutrality = {
+				male = { 
+					"gfx/leaders/Political/Portrait_France_Felix_Eboue.dds"
+					"gfx/leaders/Political/Portrait_Haile_Selassie_Gugsa.dds"
+			}
+		}
+	}	
+}
+continent = {
+	name = australia
+	army = {
+		male = {
+			"gfx/leaders/Army/Portrait_Andrew_McNaughton.dds"
+			"gfx/leaders/Army/Portrait_Georgi_Nikolov_Popov.dds"
+			"gfx/leaders/Army/Portrait_Guy_Simonds.dds"
+			"gfx/leaders/Army/Portrait_Harry_Crerar.dds"
+			"gfx/leaders/Army/Portrait_Jakob_Harberts.dds"
+			"gfx/leaders/Army/portrait_Jan_Van_Andel.dds"
+			"gfx/leaders/Army/Portrait_Carl_Gustaf_Fleischer.dds"
+			"gfx/leaders/Army/Portrait_Folke_Bernadotte.dds"
+			"gfx/leaders/Army/Portrait_Charles_Lockwood.dds"
+			"gfx/leaders/Army/Portrait_Ronald_Scobie.dds"
+			"gfx/leaders/Army/Portrait_Richard_McCreery.dds"
+			"gfx/leaders/Army/Portrait_Kenneth_Anderson.dds"
+			"gfx/leaders/Army/Portrait_John_Dill.dds"
+			"gfx/leaders/Army/Portrait_John_Crocker.dds"
+			"gfx/leaders/Army/Portrait_Herbert_Lumsden.dds"
+			"gfx/leaders/Army/Portrait_Frederick_Browning.dds"
+			"gfx/leaders/Army/Portrait_Edmond_Schreiber.dds"
+			"gfx/leaders/Army/Portrait_Bernard_Paget.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alfred_Jansa.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alois_Schonburg_Hartenstein.dds"
+			"gfx/leaders/Army/Portrait_Austria_Eduard_Barger.dds"
+			"gfx/leaders/Army/Portrait_Austria_Franz_Bohme.dds"
+			"gfx/leaders/Army/Portrait_Austria_Karl_Eglseer.dds"
+			"gfx/leaders/Army/Portrait_Austria_Siegmund_Knaus.dds"
+			"gfx/leaders/Army/Portrait_Austria_Sigismund_Schilhawsky.dds"
+			"gfx/leaders/Army/Portrait_Canada_Thomas_Victor_Anderson.dds"
+			"gfx/leaders/Army/Portrait_Britain_Edmund_Ironside.dds"
+			"gfx/leaders/Army/Portrait_Britain_Percy_Hobart.dds"
+			"gfx/leaders/Army/Portrait_Norway_Otto_Ruge.dds"
+			"gfx/leaders/Army/Portrait_Vilho_Petter_Nenonen.dds"
+			"gfx/leaders/Army/Portrait_Erik_Heinrichs.dds"
+			"gfx/leaders/Army/Portrait_Aleksandr_Vasilevsky.dds"
+			"gfx/leaders/Army/Portrait_Humberto_Sosa_Molina.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Navy/Portrait_Arthur_Palliser.dds"
+			"gfx/leaders/Navy/Portrait_Max_Horton.dds"
+			"gfx/leaders/Navy/Portrait_Percy_Noble.dds"
+			"gfx/leaders/Navy/Portrait_Tom_Phillips.dds"
+			"gfx/leaders/Navy/Portrait_Britain_Louis_Mountbatten.dds"
+			"gfx/leaders/Navy/Portrait_France_Emile_Muselier.dds"
+			"gfx/leaders/Navy/Portrait_Holland_Hubert_von_Frijtag_Drabbe.dds"
+			"gfx/leaders/Navy/Portrait_Georg_von_Trapp.dds"
+			"gfx/leaders/Navy/Portrait_Johan_Pitka.dds"
+		}
+	}
+
+	political = {
+		communism = {
+				male = { 
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_1.dds" 
+					"gfx/leaders/Political/portrait_kaz_ilyas_zhansugurov.dds" 
+					"gfx/leaders/Political/portrait_kaz_nikolay_skvortsov.dds" 
+					"gfx/leaders/Political/portrait_lat_fricis_menders.dds" 
+					"gfx/leaders/Political/portrait_lat_vilis_lacis.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos_Demertzis.dds"
+					"gfx/leaders/Political/Portrait_Ramsay_MacDonald.dds"
+					"gfx/leaders/Political/Portrait_Vasily_Stalin.dds"
+					"gfx/leaders/Political/Portrait_Pershing.dds"
+					"gfx/leaders/Political/Portrait_Ioannes_Rallis.dds"
+					"gfx/leaders/Political/Portrait_Thomas_Mann.dds"
+					"gfx/leaders/Political/Portrait_Nikolai_Bukharin.dds"
+					"gfx/leaders/Political/Portrait_Hans_Bleimer.dds"
+					"gfx/leaders/Political/Portrait_Alexander_Kerensky.dds"					
+					"gfx/leaders/Political/Portrait_Aimo_Aaltonen.dds"
+					"gfx/leaders/Political/Portrait_Vilho_Annala.dds"
+					"gfx/leaders/Political/Portrait_Albert_Lebrun.dds"
+					"gfx/leaders/Political/Portrait_Francesc_Macia.dds"
+					"gfx/leaders/Political/Portrait_Vyacheslav_Molotov.dds"
+					"gfx/leaders/Political/Portrait_Niceto_AlcaláZamora.dds"
+					"gfx/leaders/Political/Portrait_MacArthur_Alternate.dds"					
+					"gfx/leaders/Political/Portrait_Camille_Chautemps.dds"
+					"gfx/leaders/Political/Portrait_Axel_PehrssonBramstorp.dds"
+					"gfx/leaders/Political/Portrait_Vicente_Risco.dds"
+					"gfx/leaders/Political/Portrait_Lluis_Companys.dds"
+					"gfx/leaders/Political/Portrait_Francisco_Caballero.dds"
+					"gfx/leaders/Political/Portrait_Juan_Borbon.dds"
+					"gfx/leaders/Political/Portrait_Ludwig_Kaas.dds"
+					"gfx/leaders/Political/Portrait_Nimio_Anquin.dds"
+					"gfx/leaders/Political/Portrait_Tomáš_Garrigue_Masaryk.dds"
+					"gfx/leaders/Political/Portrait_Luis_Carlos_Prestes.dds"
+			}
+		}
+		democratic = {
+				male = { 
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_2.dds" 
+					"gfx/leaders/Political/Portrait_Britain_Austen_Chamberlain.dds" 
+					"gfx/leaders/Political/portrait_kaz_ilyas_zhansugurov.dds"
+					"gfx/leaders/Political/portrait_kaz_nikolay_skvortsov.dds"
+					"gfx/leaders/Political/portrait_ice_sveinn_bjornsson.dds" 
+					"gfx/leaders/Political/portrait_lat_fricis_menders.dds"
+					"gfx/leaders/Political/portrait_lat_vilis_lacis.dds"
+					"gfx/leaders/Political/Portrait_Juan_Andreu.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos.dds"
+					"gfx/leaders/Political/Portrait_Britain_David_Lloyd_George.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos_Demertzis.dds"
+					"gfx/leaders/Political/Portrait_Ramsay_MacDonald.dds"
+					"gfx/leaders/Political/Portrait_Pershing.dds"
+					"gfx/leaders/Political/Portrait_Ioannes_Rallis.dds"
+					"gfx/leaders/Political/Portrait_Thomas_Mann.dds"
+					"gfx/leaders/Political/Portrait_Alexander_Kerensky.dds"					
+					"gfx/leaders/Political/Portrait_Aimo_Aaltonen.dds"
+					"gfx/leaders/Political/Portrait_Vilho_Annala.dds"
+					"gfx/leaders/Political/Portrait_Albert_Lebrun.dds"
+					"gfx/leaders/Political/Portrait_Francesc_Macia.dds"
+					"gfx/leaders/Political/Portrait_Vyacheslav_Molotov.dds"
+					"gfx/leaders/Political/Portrait_Niceto_AlcaláZamora.dds"
+					"gfx/leaders/Political/Portrait_MacArthur_Alternate.dds"					
+					"gfx/leaders/Political/Portrait_Camille_Chautemps.dds"
+					"gfx/leaders/Political/Portrait_Axel_PehrssonBramstorp.dds"
+					"gfx/leaders/Political/Portrait_Vicente_Risco.dds"
+					"gfx/leaders/Political/Portrait_Lluis_Companys.dds"
+					"gfx/leaders/Political/Portrait_Francisco_Caballero.dds"
+					"gfx/leaders/Political/Portrait_Juan_Borbon.dds"
+					"gfx/leaders/Political/Portrait_Ludwig_Kaas.dds"
+					"gfx/leaders/Political/Portrait_Nimio_Anquin.dds"
+					"gfx/leaders/Political/Portrait_Tomáš_Garrigue_Masaryk.dds"
+					"gfx/leaders/Political/Portrait_Luis_Carlos_Prestes.dds"
+			}
+		}
+		fascism = {
+				male = { 
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_1.dds"
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_2.dds"
+					"gfx/leaders/Political/Portrait_Britain_Austen_Chamberlain.dds"
+					"gfx/leaders/Political/portrait_fin_carl_mannerheim.dds" 
+					"gfx/leaders/Political/portrait_lat_fricis_menders.dds"
+					"gfx/leaders/Political/portrait_lat_vilis_lacis.dds"
+					"gfx/leaders/Political/Portrait_Juan_Andreu.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos.dds"
+					"gfx/leaders/Political/Portrait_Germany_Arthur_Seyss-Inquart.dds"
+					"gfx/leaders/Political/Portrait_Germany_Erich_Koch.dds"
+					"gfx/leaders/Political/Portrait_Germany_Hinrich_Lohse.dds"
+					"gfx/leaders/Political/Portrait_Germany_Josef_Grohe.dds"
+					"gfx/leaders/Political/Portrait_Germany_Josef_Terboven.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos_Demertzis.dds"
+					"gfx/leaders/Political/Portrait_Ramsay_MacDonald.dds"
+					"gfx/leaders/Political/Portrait_Pershing.dds"
+					"gfx/leaders/Political/Portrait_Ioannes_Rallis.dds"
+					"gfx/leaders/Political/Portrait_Thomas_Mann.dds"
+					"gfx/leaders/Political/Portrait_Arthur_Greiser.dds"
+					"gfx/leaders/Political/Portrait_Alexander_Kerensky.dds"
+					"gfx/leaders/Political/Portrait_Aimo_Aaltonen.dds"
+					"gfx/leaders/Political/Portrait_Vilho_Annala.dds"
+					"gfx/leaders/Political/Portrait_Albert_Lebrun.dds"
+					"gfx/leaders/Political/Portrait_Francesc_Macia.dds"
+					"gfx/leaders/Political/Portrait_Vyacheslav_Molotov.dds"
+					"gfx/leaders/Political/Portrait_Niceto_AlcaláZamora.dds"					"gfx/leaders/Political/Portrait_MacArthur_Alternate.dds"					
+					"gfx/leaders/Political/Portrait_Camille_Chautemps.dds"
+					"gfx/leaders/Political/Portrait_Axel_PehrssonBramstorp.dds"
+					"gfx/leaders/Political/Portrait_Vicente_Risco.dds"
+					"gfx/leaders/Political/Portrait_Lluis_Companys.dds"
+					"gfx/leaders/Political/Portrait_Francisco_Caballero.dds"
+					"gfx/leaders/Political/Portrait_Juan_Borbon.dds"
+					"gfx/leaders/Political/Portrait_Ludwig_Kaas.dds"
+					"gfx/leaders/Political/Portrait_Nimio_Anquin.dds"
+					"gfx/leaders/Political/Portrait_Tomáš_Garrigue_Masaryk.dds"
+					"gfx/leaders/Political/Portrait_Luis_Carlos_Prestes.dds"
+					"gfx/leaders/Political/Portrait_Hugo_Schwab.dds"
+			}
+		}
+		neutrality = {
+				male = { 
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_1.dds"
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_2.dds"
+					"gfx/leaders/Political/Portrait_Britain_Austen_Chamberlain.dds"
+					"gfx/leaders/Political/portrait_fin_carl_mannerheim.dds"
+					"gfx/leaders/Political/portrait_lat_fricis_menders.dds"
+					"gfx/leaders/Political/portrait_lat_vilis_lacis.dds"
+					"gfx/leaders/Political/Portrait_Jan_Syrovydds.dds"
+					"gfx/leaders/Political/Portrait_Juan_Andreu.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos.dds"
+					"gfx/leaders/Political/Portrait_Britain_David_Lloyd_George.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos_Demertzis.dds"
+					"gfx/leaders/Political/Portrait_Ramsay_MacDonald.dds"
+					"gfx/leaders/Political/Portrait_Pershing.dds"
+					"gfx/leaders/Political/Portrait_Ioannes_Rallis.dds"
+					"gfx/leaders/Political/Portrait_Thomas_Mann.dds"
+					"gfx/leaders/Political/Portrait_Nikolai_Bukharin.dds"
+					"gfx/leaders/Political/Portrait_Alexander_Kerensky.dds"					
+					"gfx/leaders/Political/Portrait_Aimo_Aaltonen.dds"
+					"gfx/leaders/Political/Portrait_Vilho_Annala.dds"
+					"gfx/leaders/Political/Portrait_Albert_Lebrun.dds"
+					"gfx/leaders/Political/Portrait_Francesc_Macia.dds"
+					"gfx/leaders/Political/Portrait_Vyacheslav_Molotov.dds"
+					"gfx/leaders/Political/Portrait_Niceto_AlcaláZamora.dds"
+					"gfx/leaders/Political/Portrait_MacArthur_Alternate.dds"				
+					"gfx/leaders/Political/Portrait_Camille_Chautemps.dds"
+					"gfx/leaders/Political/Portrait_Axel_PehrssonBramstorp.dds"
+					"gfx/leaders/Political/Portrait_Vicente_Risco.dds"
+					"gfx/leaders/Political/Portrait_Lluis_Companys.dds"
+					"gfx/leaders/Political/Portrait_Francisco_Caballero.dds"
+					"gfx/leaders/Political/Portrait_Juan_Borbon.dds"
+					"gfx/leaders/Political/Portrait_Carlos_Pio.dds"
+					"gfx/leaders/Political/Portrait_Ludwig_Kaas.dds"
+					"gfx/leaders/Political/Portrait_Nimio_Anquin.dds"
+					"gfx/leaders/Political/Portrait_Tomáš_Garrigue_Masaryk.dds"
+					"gfx/leaders/Political/Portrait_Luis_Carlos_Prestes.dds"
+			}
+		}
+	}	
+}
+
+continent = {
+	name = south_america
+	army = {
+		male = {
+			"gfx/leaders/Army/Portrait_Andrew_McNaughton.dds"
+			"gfx/leaders/Army/Portrait_Georgi_Nikolov_Popov.dds"
+			"gfx/leaders/Army/Portrait_Guy_Simonds.dds"
+			"gfx/leaders/Army/Portrait_Harry_Crerar.dds"
+			"gfx/leaders/Army/Portrait_Jakob_Harberts.dds"
+			"gfx/leaders/Army/portrait_Jan_Van_Andel.dds"
+			"gfx/leaders/Army/Portrait_Carl_Gustaf_Fleischer.dds"
+			"gfx/leaders/Army/Portrait_Folke_Bernadotte.dds"
+			"gfx/leaders/Army/Portrait_Charles_Lockwood.dds"
+			"gfx/leaders/Army/Portrait_Ronald_Scobie.dds"
+			"gfx/leaders/Army/Portrait_Richard_McCreery.dds"
+			"gfx/leaders/Army/Portrait_Kenneth_Anderson.dds"
+			"gfx/leaders/Army/Portrait_John_Dill.dds"
+			"gfx/leaders/Army/Portrait_John_Crocker.dds"
+			"gfx/leaders/Army/Portrait_Herbert_Lumsden.dds"
+			"gfx/leaders/Army/Portrait_Frederick_Browning.dds"
+			"gfx/leaders/Army/Portrait_Edmond_Schreiber.dds"
+			"gfx/leaders/Army/Portrait_Bernard_Paget.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alfred_Jansa.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alois_Schonburg_Hartenstein.dds"
+			"gfx/leaders/Army/Portrait_Austria_Eduard_Barger.dds"
+			"gfx/leaders/Army/Portrait_Austria_Franz_Bohme.dds"
+			"gfx/leaders/Army/Portrait_Austria_Karl_Eglseer.dds"
+			"gfx/leaders/Army/Portrait_Austria_Siegmund_Knaus.dds"
+			"gfx/leaders/Army/Portrait_Austria_Sigismund_Schilhawsky.dds"
+			"gfx/leaders/Army/Portrait_Canada_Thomas_Victor_Anderson.dds"
+			"gfx/leaders/Army/Portrait_Britain_Edmund_Ironside.dds"
+			"gfx/leaders/Army/Portrait_Britain_Percy_Hobart.dds"
+			"gfx/leaders/Army/Portrait_Norway_Otto_Ruge.dds"
+			"gfx/leaders/Army/Portrait_Vilho_Petter_Nenonen.dds"
+			"gfx/leaders/Army/Portrait_Erik_Heinrichs.dds"
+			"gfx/leaders/Army/Portrait_Aleksandr_Vasilevsky.dds"
+			"gfx/leaders/Army/Portrait_Humberto_Sosa_Molina.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Navy/Portrait_Arthur_Palliser.dds"
+			"gfx/leaders/Navy/Portrait_Max_Horton.dds"
+			"gfx/leaders/Navy/Portrait_Percy_Noble.dds"
+			"gfx/leaders/Navy/Portrait_Tom_Phillips.dds"
+			"gfx/leaders/Navy/Portrait_Britain_Louis_Mountbatten.dds"
+			"gfx/leaders/Navy/Portrait_France_Emile_Muselier.dds"
+			"gfx/leaders/Navy/Portrait_Holland_Hubert_von_Frijtag_Drabbe.dds"
+			"gfx/leaders/Navy/Portrait_Georg_von_Trapp.dds"
+			"gfx/leaders/Navy/Portrait_Johan_Pitka.dds"
+		}
+	}	
+
+	political = {
+		communism = {
+				male = { 
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_1.dds"
+					"gfx/leaders/Political/portrait_kaz_ilyas_zhansugurov.dds" 
+					"gfx/leaders/Political/portrait_kaz_nikolay_skvortsov.dds"
+					"gfx/leaders/Political/portrait_lat_fricis_menders.dds" 
+					"gfx/leaders/Political/portrait_lat_vilis_lacis.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos_Demertzis.dds"
+					"gfx/leaders/Political/Portrait_Ramsay_MacDonald.dds"
+					"gfx/leaders/Political/Portrait_Vasily_Stalin.dds"
+					"gfx/leaders/Political/Portrait_Pershing.dds"
+					"gfx/leaders/Political/Portrait_Ioannes_Rallis.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos_Demertzis.dds"
+					"gfx/leaders/Political/Portrait_Ramsay_MacDonald.dds"
+					"gfx/leaders/Political/Portrait_Pershing.dds"
+					"gfx/leaders/Political/Portrait_Ioannes_Rallis.dds"
+					"gfx/leaders/Political/Portrait_Thomas_Mann.dds"
+					"gfx/leaders/Political/Portrait_Nikolai_Bukharin.dds"
+					"gfx/leaders/Political/Portrait_Hans_Bleimer.dds"
+					"gfx/leaders/Political/Portrait_Alexander_Kerensky.dds"
+					"gfx/leaders/Political/Portrait_Aimo_Aaltonen.dds"
+					"gfx/leaders/Political/Portrait_Vilho_Annala.dds"
+					"gfx/leaders/Political/Portrait_Albert_Lebrun.dds"
+					"gfx/leaders/Political/Portrait_Francesc_Macia.dds"
+					"gfx/leaders/Political/Portrait_Vyacheslav_Molotov.dds"
+					"gfx/leaders/Political/Portrait_Niceto_AlcaláZamora.dds"
+					"gfx/leaders/Political/Portrait_MacArthur_Alternate.dds"
+					"gfx/leaders/Political/Portrait_Camille_Chautemps.dds"
+			        "gfx/leaders/Political/Portrait_Axel_PehrssonBramstorp.dds"
+			        "gfx/leaders/Political/Portrait_Vicente_Risco.dds"
+					"gfx/leaders/Political/Portrait_Lluis_Companys.dds"
+					"gfx/leaders/Political/Portrait_Francisco_Caballero.dds"
+					"gfx/leaders/Political/Portrait_Juan_Borbon.dds"
+					"gfx/leaders/Political/Portrait_Ludwig_Kaas.dds"
+					"gfx/leaders/Political/Portrait_Nimio_Anquin.dds"
+					"gfx/leaders/Political/Portrait_Tomáš_Garrigue_Masaryk.dds"
+					"gfx/leaders/Political/Portrait_Luis_Carlos_Prestes.dds"
+			}
+		}
+		democratic = {
+				male = { 
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_2.dds" 
+					"gfx/leaders/Political/Portrait_Britain_Austen_Chamberlain.dds"
+					"gfx/leaders/Political/portrait_kaz_ilyas_zhansugurov.dds"
+					"gfx/leaders/Political/portrait_kaz_nikolay_skvortsov.dds"
+					"gfx/leaders/Political/portrait_ice_sveinn_bjornsson.dds" 
+					"gfx/leaders/Political/portrait_lat_fricis_menders.dds"
+					"gfx/leaders/Political/portrait_lat_vilis_lacis.dds"
+					"gfx/leaders/Political/Portrait_Juan_Andreu.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos.dds"
+					"gfx/leaders/Political/Portrait_Britain_David_Lloyd_George.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos_Demertzis.dds"
+					"gfx/leaders/Political/Portrait_Ramsay_MacDonald.dds"
+					"gfx/leaders/Political/Portrait_Pershing.dds"
+					"gfx/leaders/Political/Portrait_Ioannes_Rallis.dds"
+					"gfx/leaders/Political/Portrait_Thomas_Mann.dds"
+					"gfx/leaders/Political/Portrait_Alexander_Kerensky.dds"
+					"gfx/leaders/Political/Portrait_Aimo_Aaltonen.dds"
+					"gfx/leaders/Political/Portrait_Vilho_Annala.dds"
+					"gfx/leaders/Political/Portrait_Albert_Lebrun.dds"
+					"gfx/leaders/Political/Portrait_Francesc_Macia.dds"
+					"gfx/leaders/Political/Portrait_Vyacheslav_Molotov.dds"
+					"gfx/leaders/Political/Portrait_Niceto_AlcaláZamora.dds"
+					"gfx/leaders/Political/Portrait_MacArthur_Alternate.dds"
+					"gfx/leaders/Political/Portrait_Camille_Chautemps.dds"
+					"gfx/leaders/Political/Portrait_Axel_PehrssonBramstorp.dds"
+			        "gfx/leaders/Political/Portrait_Vicente_Risco.dds"
+					"gfx/leaders/Political/Portrait_Lluis_Companys.dds"
+					"gfx/leaders/Political/Portrait_Francisco_Caballero.dds"
+					"gfx/leaders/Political/Portrait_Juan_Borbon.dds"
+					"gfx/leaders/Political/Portrait_Ludwig_Kaas.dds"
+					"gfx/leaders/Political/Portrait_Nimio_Anquin.dds"
+					"gfx/leaders/Political/Portrait_Tomáš_Garrigue_Masaryk.dds"
+					"gfx/leaders/Political/Portrait_Luis_Carlos_Prestes.dds"
+			}
+		}
+		fascism = {
+				male = { 
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_1.dds"
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_2.dds"
+					"gfx/leaders/Political/Portrait_Britain_Austen_Chamberlain.dds"
+					"gfx/leaders/Political/portrait_fin_carl_mannerheim.dds" 
+					"gfx/leaders/Political/portrait_lat_fricis_menders.dds"
+					"gfx/leaders/Political/portrait_lat_vilis_lacis.dds"
+					"gfx/leaders/Political/Portrait_Juan_Andreu.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos.dds"
+					"gfx/leaders/Political/Portrait_Germany_Arthur_Seyss-Inquart.dds"
+					"gfx/leaders/Political/Portrait_Germany_Erich_Koch.dds"
+					"gfx/leaders/Political/Portrait_Germany_Hinrich_Lohse.dds"
+					"gfx/leaders/Political/Portrait_Germany_Josef_Grohe.dds"
+					"gfx/leaders/Political/Portrait_Germany_Josef_Terboven.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos_Demertzis.dds"
+					"gfx/leaders/Political/Portrait_Ramsay_MacDonald.dds"
+					"gfx/leaders/Political/Portrait_Pershing.dds"
+					"gfx/leaders/Political/Portrait_Ioannes_Rallis.dds"
+					"gfx/leaders/Political/Portrait_Thomas_Mann.dds"
+					"gfx/leaders/Political/Portrait_Arthur_Greiser.dds"
+					"gfx/leaders/Political/Portrait_Alexander_Kerensky.dds"
+					"gfx/leaders/Political/Portrait_Aimo_Aaltonen.dds"
+					"gfx/leaders/Political/Portrait_Vilho_Annala.dds"
+					"gfx/leaders/Political/Portrait_Albert_Lebrun.dds"
+					"gfx/leaders/Political/Portrait_Francesc_Macia.dds"
+					"gfx/leaders/Political/Portrait_Vyacheslav_Molotov.dds"
+					"gfx/leaders/Political/Portrait_Niceto_AlcaláZamora.dds"
+					"gfx/leaders/Political/Portrait_MacArthur_Alternate.dds"
+					"gfx/leaders/Political/Portrait_Camille_Chautemps.dds"
+					"gfx/leaders/Political/Portrait_Axel_PehrssonBramstorp.dds"
+			                "gfx/leaders/Political/Portrait_Vicente_Risco.dds"
+					"gfx/leaders/Political/Portrait_Lluis_Companys.dds"
+					"gfx/leaders/Political/Portrait_Francisco_Caballero.dds"
+					"gfx/leaders/Political/Portrait_Juan_Borbon.dds"
+					"gfx/leaders/Political/Portrait_Ludwig_Kaas.dds"
+					"gfx/leaders/Political/Portrait_Nimio_Anquin.dds"
+					"gfx/leaders/Political/Portrait_Tomáš_Garrigue_Masaryk.dds"
+					"gfx/leaders/Political/Portrait_Luis_Carlos_Prestes.dds"
+					"gfx/leaders/Political/Portrait_Hugo_Schwab.dds"
+			}
+		}
+		neutrality = {
+				male = { 
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_1.dds"
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_2.dds"
+					"gfx/leaders/Political/Portrait_Britain_Austen_Chamberlain.dds"
+					"gfx/leaders/Political/portrait_fin_carl_mannerheim.dds"
+					"gfx/leaders/Political/portrait_lat_fricis_menders.dds"
+					"gfx/leaders/Political/portrait_lat_vilis_lacis.dds"
+					"gfx/leaders/Political/Portrait_Jan_Syrovydds.dds" 
+					"gfx/leaders/Political/Portrait_Juan_Andreu.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos.dds"
+					"gfx/leaders/Political/Portrait_Britain_David_Lloyd_George.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos_Demertzis.dds"
+					"gfx/leaders/Political/Portrait_Ramsay_MacDonald.dds"
+					"gfx/leaders/Political/Portrait_Pershing.dds"
+					"gfx/leaders/Political/Portrait_Ioannes_Rallis.dds"
+					"gfx/leaders/Political/Portrait_Thomas_Mann.dds"
+					"gfx/leaders/Political/Portrait_Nikolai_Bukharin.dds"
+					"gfx/leaders/Political/Portrait_Alexander_Kerensky.dds"
+					"gfx/leaders/Political/Portrait_Aimo_Aaltonen.dds"
+					"gfx/leaders/Political/Portrait_Vilho_Annala.dds"
+					"gfx/leaders/Political/Portrait_Albert_Lebrun.dds"
+					"gfx/leaders/Political/Portrait_Francesc_Macia.dds"
+					"gfx/leaders/Political/Portrait_Vyacheslav_Molotov.dds"
+					"gfx/leaders/Political/Portrait_Niceto_AlcaláZamora.dds"
+					"gfx/leaders/Political/Portrait_MacArthur_Alternate.dds"
+					"gfx/leaders/Political/Portrait_Camille_Chautemps.dds"
+					"gfx/leaders/Political/Portrait_Axel_PehrssonBramstorp.dds"
+			                "gfx/leaders/Political/Portrait_Vicente_Risco.dds"
+					"gfx/leaders/Political/Portrait_Lluis_Companys.dds"
+					"gfx/leaders/Political/Portrait_Francisco_Caballero.dds"
+					"gfx/leaders/Political/Portrait_Juan_Borbon.dds"
+					"gfx/leaders/Political/Portrait_Carlos_Pio.dds"
+					"gfx/leaders/Political/Portrait_Ludwig_Kaas.dds"
+					"gfx/leaders/Political/Portrait_Nimio_Anquin.dds"
+					"gfx/leaders/Political/Portrait_Tomáš_Garrigue_Masaryk.dds"
+					"gfx/leaders/Political/Portrait_Luis_Carlos_Prestes.dds"
+			}
+		}
+	}	
+}
+
+continent = {
+	name = north_america
+	army = {
+		male = {
+			"gfx/leaders/Army/Portrait_Andrew_McNaughton.dds"
+			"gfx/leaders/Army/Portrait_Georgi_Nikolov_Popov.dds"
+			"gfx/leaders/Army/Portrait_Guy_Simonds.dds"
+			"gfx/leaders/Army/Portrait_Harry_Crerar.dds"
+			"gfx/leaders/Army/Portrait_Jakob_Harberts.dds"
+			"gfx/leaders/Army/portrait_Jan_Van_Andel.dds"
+			"gfx/leaders/Army/Portrait_Carl_Gustaf_Fleischer.dds"
+			"gfx/leaders/Army/Portrait_Folke_Bernadotte.dds"
+			"gfx/leaders/Army/Portrait_Charles_Lockwood.dds"
+			"gfx/leaders/Army/Portrait_Ronald_Scobie.dds"
+			"gfx/leaders/Army/Portrait_Richard_McCreery.dds"
+			"gfx/leaders/Army/Portrait_Kenneth_Anderson.dds"
+			"gfx/leaders/Army/Portrait_John_Dill.dds"
+			"gfx/leaders/Army/Portrait_John_Crocker.dds"
+			"gfx/leaders/Army/Portrait_Herbert_Lumsden.dds"
+			"gfx/leaders/Army/Portrait_Frederick_Browning.dds"
+			"gfx/leaders/Army/Portrait_Edmond_Schreiber.dds"
+			"gfx/leaders/Army/Portrait_Bernard_Paget.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alfred_Jansa.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alois_Schonburg_Hartenstein.dds"
+			"gfx/leaders/Army/Portrait_Austria_Eduard_Barger.dds"
+			"gfx/leaders/Army/Portrait_Austria_Franz_Bohme.dds"
+			"gfx/leaders/Army/Portrait_Austria_Karl_Eglseer.dds"
+			"gfx/leaders/Army/Portrait_Austria_Siegmund_Knaus.dds"
+			"gfx/leaders/Army/Portrait_Austria_Sigismund_Schilhawsky.dds"
+			"gfx/leaders/Army/Portrait_Canada_Thomas_Victor_Anderson.dds"
+			"gfx/leaders/Army/Portrait_Britain_Edmund_Ironside.dds"
+			"gfx/leaders/Army/Portrait_Britain_Percy_Hobart.dds"
+			"gfx/leaders/Army/Portrait_Norway_Otto_Ruge.dds"	
+			"gfx/leaders/Army/Portrait_Vilho_Petter_Nenonen.dds"
+			"gfx/leaders/Army/Portrait_Erik_Heinrichs.dds"
+			"gfx/leaders/Army/Portrait_Aleksandr_Vasilevsky.dds"
+			"gfx/leaders/Army/Portrait_Humberto_Sosa_Molina.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Navy/Portrait_Arthur_Palliser.dds"
+			"gfx/leaders/Navy/Portrait_Max_Horton.dds"
+			"gfx/leaders/Navy/Portrait_Percy_Noble.dds"
+			"gfx/leaders/Navy/Portrait_Tom_Phillips.dds"
+			"gfx/leaders/Navy/Portrait_Britain_Louis_Mountbatten.dds"
+			"gfx/leaders/Navy/Portrait_France_Emile_Muselier.dds"
+			"gfx/leaders/Navy/Portrait_Holland_Hubert_von_Frijtag_Drabbe.dds"
+			"gfx/leaders/Navy/Portrait_Georg_von_Trapp.dds"
+			"gfx/leaders/Navy/Portrait_Johan_Pitka.dds"
+		}
+	}	
+
+	political = {
+		communism = {
+				male = { 
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_1.dds"
+					"gfx/leaders/Political/portrait_kaz_ilyas_zhansugurov.dds" 
+					"gfx/leaders/Political/portrait_kaz_nikolay_skvortsov.dds" 
+					"gfx/leaders/Political/portrait_lat_fricis_menders.dds" 
+					"gfx/leaders/Political/portrait_lat_vilis_lacis.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos_Demertzis.dds"
+					"gfx/leaders/Political/Portrait_Ramsay_MacDonald.dds"
+					"gfx/leaders/Political/Portrait_Vasily_Stalin.dds"
+					"gfx/leaders/Political/Portrait_Pershing.dds"
+					"gfx/leaders/Political/Portrait_Ioannes_Rallis.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos_Demertzis.dds"
+					"gfx/leaders/Political/Portrait_Ramsay_MacDonald.dds"
+					"gfx/leaders/Political/Portrait_Pershing.dds"
+					"gfx/leaders/Political/Portrait_Ioannes_Rallis.dds"
+					"gfx/leaders/Political/Portrait_Thomas_Mann.dds"
+					"gfx/leaders/Political/Portrait_Nikolai_Bukharin.dds"
+					"gfx/leaders/Political/Portrait_Hans_Bleimer.dds"
+					"gfx/leaders/Political/Portrait_Alexander_Kerensky.dds"
+					"gfx/leaders/Political/Portrait_Aimo_Aaltonen.dds"
+					"gfx/leaders/Political/Portrait_Vilho_Annala.dds"
+					"gfx/leaders/Political/Portrait_Albert_Lebrun.dds"
+					"gfx/leaders/Political/Portrait_Francesc_Macia.dds"
+					"gfx/leaders/Political/Portrait_Vyacheslav_Molotov.dds"
+					"gfx/leaders/Political/Portrait_Niceto_AlcaláZamora.dds"
+					"gfx/leaders/Political/Portrait_MacArthur_Alternate.dds"
+					"gfx/leaders/Political/Portrait_Camille_Chautemps.dds"
+					"gfx/leaders/Political/Portrait_Axel_PehrssonBramstorp.dds"
+			        "gfx/leaders/Political/Portrait_Vicente_Risco.dds"
+					"gfx/leaders/Political/Portrait_Lluis_Companys.dds"
+					"gfx/leaders/Political/Portrait_Francisco_Caballero.dds"
+					"gfx/leaders/Political/Portrait_Juan_Borbon.dds"
+					"gfx/leaders/Political/Portrait_Ludwig_Kaas.dds"
+					"gfx/leaders/Political/Portrait_Nimio_Anquin.dds"
+					"gfx/leaders/Political/Portrait_Tomáš_Garrigue_Masaryk.dds"
+					"gfx/leaders/Political/Portrait_Luis_Carlos_Prestes.dds"
+			}
+		}
+		democratic = {
+				male = { 
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_2.dds"
+					"gfx/leaders/Political/Portrait_Britain_Austen_Chamberlain.dds"
+					"gfx/leaders/Political/portrait_kaz_ilyas_zhansugurov.dds"
+					"gfx/leaders/Political/portrait_kaz_nikolay_skvortsov.dds"
+					"gfx/leaders/Political/portrait_ice_sveinn_bjornsson.dds"
+					"gfx/leaders/Political/portrait_lat_fricis_menders.dds"
+					"gfx/leaders/Political/portrait_lat_vilis_lacis.dds"
+					"gfx/leaders/Political/Portrait_Juan_Andreu.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos.dds"
+					"gfx/leaders/Political/Portrait_Britain_David_Lloyd_George.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos_Demertzis.dds"
+					"gfx/leaders/Political/Portrait_Ramsay_MacDonald.dds"
+					"gfx/leaders/Political/Portrait_Pershing.dds"
+					"gfx/leaders/Political/Portrait_Ioannes_Rallis.dds"
+					"gfx/leaders/Political/Portrait_Thomas_Mann.dds"
+					"gfx/leaders/Political/Portrait_Alexander_Kerensky.dds"					
+					"gfx/leaders/Political/Portrait_Aimo_Aaltonen.dds"
+					"gfx/leaders/Political/Portrait_Vilho_Annala.dds"
+					"gfx/leaders/Political/Portrait_Albert_Lebrun.dds"
+					"gfx/leaders/Political/Portrait_Francesc_Macia.dds"
+					"gfx/leaders/Political/Portrait_Vyacheslav_Molotov.dds"
+					"gfx/leaders/Political/Portrait_Niceto_AlcaláZamora.dds"
+					"gfx/leaders/Political/Portrait_MacArthur_Alternate.dds"					
+					"gfx/leaders/Political/Portrait_Camille_Chautemps.dds"
+					"gfx/leaders/Political/Portrait_Axel_PehrssonBramstorp.dds"
+			        "gfx/leaders/Political/Portrait_Vicente_Risco.dds"
+					"gfx/leaders/Political/Portrait_Lluis_Companys.dds"
+					"gfx/leaders/Political/Portrait_Francisco_Caballero.dds"
+					"gfx/leaders/Political/Portrait_Juan_Borbon.dds"
+					"gfx/leaders/Political/Portrait_Ludwig_Kaas.dds"
+					"gfx/leaders/Political/Portrait_Nimio_Anquin.dds"
+					"gfx/leaders/Political/Portrait_Tomáš_Garrigue_Masaryk.dds"
+					"gfx/leaders/Political/Portrait_Luis_Carlos_Prestes.dds"
+			}
+		}
+		fascism = {
+				male = { 
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_1.dds"
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_2.dds"
+					"gfx/leaders/Political/Portrait_Britain_Austen_Chamberlain.dds"
+					"gfx/leaders/Political/portrait_fin_carl_mannerheim.dds"
+					"gfx/leaders/Political/portrait_lat_fricis_menders.dds"
+					"gfx/leaders/Political/portrait_lat_vilis_lacis.dds"
+					"gfx/leaders/Political/Portrait_Juan_Andreu.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos.dds"
+					"gfx/leaders/Political/Portrait_Germany_Arthur_Seyss-Inquart.dds"
+					"gfx/leaders/Political/Portrait_Germany_Erich_Koch.dds"
+					"gfx/leaders/Political/Portrait_Germany_Hinrich_Lohse.dds"
+					"gfx/leaders/Political/Portrait_Germany_Josef_Grohe.dds"
+					"gfx/leaders/Political/Portrait_Germany_Josef_Terboven.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos_Demertzis.dds"
+					"gfx/leaders/Political/Portrait_Ramsay_MacDonald.dds"
+					"gfx/leaders/Political/Portrait_Pershing.dds"
+					"gfx/leaders/Political/Portrait_Ioannes_Rallis.dds"
+					"gfx/leaders/Political/Portrait_Thomas_Mann.dds"
+					"gfx/leaders/Political/Portrait_Arthur_Greiser.dds"
+					"gfx/leaders/Political/Portrait_Alexander_Kerensky.dds"
+					"gfx/leaders/Political/Portrait_Aimo_Aaltonen.dds"
+					"gfx/leaders/Political/Portrait_Vilho_Annala.dds"
+					"gfx/leaders/Political/Portrait_Albert_Lebrun.dds"
+					"gfx/leaders/Political/Portrait_Francesc_Macia.dds"
+					"gfx/leaders/Political/Portrait_Vyacheslav_Molotov.dds"
+					"gfx/leaders/Political/Portrait_Niceto_AlcaláZamora.dds"
+					"gfx/leaders/Political/Portrait_MacArthur_Alternate.dds"				
+					"gfx/leaders/Political/Portrait_Camille_Chautemps.dds"
+					"gfx/leaders/Political/Portrait_Axel_PehrssonBramstorp.dds"
+			        "gfx/leaders/Political/Portrait_Vicente_Risco.dds"
+					"gfx/leaders/Political/Portrait_Lluis_Companys.dds"
+					"gfx/leaders/Political/Portrait_Francisco_Caballero.dds"
+					"gfx/leaders/Political/Portrait_Juan_Borbon.dds"
+					"gfx/leaders/Political/Portrait_Ludwig_Kaas.dds"
+					"gfx/leaders/Political/Portrait_Nimio_Anquin.dds"
+					"gfx/leaders/Political/Portrait_Tomáš_Garrigue_Masaryk.dds"
+					"gfx/leaders/Political/Portrait_Luis_Carlos_Prestes.dds"
+					"gfx/leaders/Political/Portrait_Hugo_Schwab.dds"
+			}
+		}
+		neutrality = {
+				male = { 
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_1.dds"
+					"gfx/leaders/Political/sensible_Portrait_Europe_Generic_2.dds"
+					"gfx/leaders/Political/Portrait_Britain_Austen_Chamberlain.dds"
+					"gfx/leaders/Political/portrait_fin_carl_mannerheim.dds"
+					"gfx/leaders/Political/portrait_lat_fricis_menders.dds"
+					"gfx/leaders/Political/portrait_lat_vilis_lacis.dds"
+					"gfx/leaders/Political/Portrait_Jan_Syrovydds.dds"
+					"gfx/leaders/Political/Portrait_Juan_Andreu.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos.dds"
+					"gfx/leaders/Political/Portrait_Britain_David_Lloyd_George.dds"
+					"gfx/leaders/Political/Portrait_Konstantinos_Demertzis.dds"
+					"gfx/leaders/Political/Portrait_Ramsay_MacDonald.dds"
+					"gfx/leaders/Political/Portrait_Pershing.dds"
+					"gfx/leaders/Political/Portrait_Ioannes_Rallis.dds"
+					"gfx/leaders/Political/Portrait_Thomas_Mann.dds"
+					"gfx/leaders/Political/Portrait_Nikolai_Bukharin.dds"
+					"gfx/leaders/Political/Portrait_Alexander_Kerensky.dds"					
+					"gfx/leaders/Political/Portrait_Aimo_Aaltonen.dds"
+					"gfx/leaders/Political/Portrait_Vilho_Annala.dds"
+					"gfx/leaders/Political/Portrait_Albert_Lebrun.dds"
+					"gfx/leaders/Political/Portrait_Francesc_Macia.dds"
+					"gfx/leaders/Political/Portrait_Vyacheslav_Molotov.dds"
+					"gfx/leaders/Political/Portrait_Niceto_AlcaláZamora.dds"
+					"gfx/leaders/Political/Portrait_MacArthur_Alternate.dds"				
+					"gfx/leaders/Political/Portrait_Camille_Chautemps.dds"
+					"gfx/leaders/Political/Portrait_Axel_PehrssonBramstorp.dds"
+			        "gfx/leaders/Political/Portrait_Vicente_Risco.dds"
+					"gfx/leaders/Political/Portrait_Lluis_Companys.dds"
+					"gfx/leaders/Political/Portrait_Francisco_Caballero.dds"
+					"gfx/leaders/Political/Portrait_Juan_Borbon.dds"
+					"gfx/leaders/Political/Portrait_Carlos_Pio.dds"
+					"gfx/leaders/Political/Portrait_Ludwig_Kaas.dds"
+					"gfx/leaders/Political/Portrait_Nimio_Anquin.dds"
+					"gfx/leaders/Political/Portrait_Tomáš_Garrigue_Masaryk.dds"
+					"gfx/leaders/Political/Portrait_Luis_Carlos_Prestes.dds"
+			}
+		}
+	}	
+}
+
+continent = {
+	name = middle_east
+	army = {
+		male = {
+			"gfx/leaders/Army/Portrait_Jayanto_Nath_Chaudhuri.dds" #Raj general, NOT in-game
+		}
+	}
+		
+	political = {
+		communism = {
+				male = { 
+					"gfx/leaders/Political/Portrait_Messali_Hadj.dds" #Algerian politician, NOT in-game
+					"gfx/leaders/Political/Portrait_Nuri_Al_Said.dds" #Iraqi politician, NOT in-game
+					"gfx/leaders/Political/portrait_rajendra_prasad.dds" #Indian politican, NOT in-game
+			}
+		}
+		democratic = {
+				male = { 
+					"gfx/leaders/Political/Portrait_Messali_Hadj.dds"
+					"gfx/leaders/Political/Portrait_Nuri_Al_Said.dds"
+					"gfx/leaders/Political/portrait_rajendra_prasad.dds"
+			}
+		}
+		fascism = {
+				male = { 
+					"gfx/leaders/Political/Portrait_Messali_Hadj.dds"
+					"gfx/leaders/Political/Portrait_Nuri_Al_Said.dds"
+					"gfx/leaders/Political/portrait_rajendra_prasad.dds"
+			}
+		}
+		neutrality = {
+				male = { 
+					"gfx/leaders/Political/Portrait_Messali_Hadj.dds"
+					"gfx/leaders/Political/Portrait_Nuri_Al_Said.dds"
+					"gfx/leaders/Political/portrait_rajendra_prasad.dds"
+			}
+		}
+	}	
+}
+
+GER = {
+	army = {
+		male = {
+			"gfx/leaders/Army/Portrait_Walter_Weiss.dds" #German general, NOT in-game
+			"gfx/leaders/Army/Portrait_Walter_von_Brauchitsch.dds" #German general, NOT in-game
+			"gfx/leaders/Army/Portrait_Werner_Kempf.dds" #German general, NOT in-game
+			"gfx/leaders/Army/Portrait_Hermann_Balck.dds" #German general, NOT in-game
+			"gfx/leaders/Army/Portrait_Wilhelm_Keitel.dds" #German general, NOT in-game
+			"gfx/leaders/Army/Portrait_Eduard_Dietl.dds" #German general, NOT in-game
+			"gfx/leaders/Army/Portrait_Georgi_Nikolov_Popov.dds" #German general, NOT in-game
+			"gfx/leaders/Army/Portrait_Germany_Franz_Bohme.dds" #German general, NOT in-game
+			"gfx/leaders/Army/Portrait_Germany_Karl_Eglseer.dds" #German general, NOT in-game
+			"gfx/leaders/Army/Portrait_Germany_Nikolaus_von_Falkenhorst.dds" #German general, NOT in-game
+			"gfx/leaders/Army/Portrait_Max_Wunsche.dds" #German general, NOT in-game
+			"gfx/leaders/Army/Portrait_Ferdinand_Schörner.dds" #German general, NOT in-game
+		}
+	}
+
+	navy = {
+		male = {
+			"gfx/leaders/Navy/Portrait_Arthur_Palliser.dds"
+			"gfx/leaders/Navy/Portrait_Max_Horton.dds"
+			"gfx/leaders/Navy/Portrait_Percy_Noble.dds"
+			"gfx/leaders/Navy/Portrait_Tom_Phillips.dds"
+			"gfx/leaders/Navy/Portrait_Britain_Louis_Mountbatten.dds"
+			"gfx/leaders/Navy/Portrait_France_Emile_Muselier.dds"
+			"gfx/leaders/Navy/Portrait_Holland_Hubert_von_Frijtag_Drabbe.dds"
+		}
+	}
+}
+
+ENG = {
+	army = {
+		male = {
+			"gfx/leaders/Army/Portrait_Andrew_McNaughton.dds"
+			"gfx/leaders/Army/Portrait_Georgi_Nikolov_Popov.dds"
+			"gfx/leaders/Army/Portrait_Guy_Simonds.dds"
+			"gfx/leaders/Army/Portrait_Harry_Crerar.dds"
+			"gfx/leaders/Army/Portrait_Jakob_Harberts.dds"
+			"gfx/leaders/Army/portrait_Jan_Van_Andel.dds"
+			"gfx/leaders/Army/Portrait_Carl_Gustaf_Fleischer.dds"
+			"gfx/leaders/Army/Portrait_Folke_Bernadotte.dds"
+			"gfx/leaders/Army/Portrait_Charles_Lockwood.dds"
+			"gfx/leaders/Army/Portrait_Ronald_Scobie.dds"
+			"gfx/leaders/Army/Portrait_Richard_McCreery.dds"
+			"gfx/leaders/Army/Portrait_Kenneth_Anderson.dds"
+			"gfx/leaders/Army/Portrait_John_Dill.dds"
+			"gfx/leaders/Army/Portrait_John_Crocker.dds"
+			"gfx/leaders/Army/Portrait_Herbert_Lumsden.dds"
+			"gfx/leaders/Army/Portrait_Frederick_Browning.dds"
+			"gfx/leaders/Army/Portrait_Edmond_Schreiber.dds"
+			"gfx/leaders/Army/Portrait_Bernard_Paget.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Navy/Portrait_Arthur_Palliser.dds"
+			"gfx/leaders/Navy/Portrait_Max_Horton.dds"
+			"gfx/leaders/Navy/Portrait_Percy_Noble.dds"
+			"gfx/leaders/Navy/Portrait_Tom_Phillips.dds"
+			"gfx/leaders/Navy/Portrait_Britain_Louis_Mountbatten.dds"
+			"gfx/leaders/Navy/Portrait_France_Emile_Muselier.dds"
+			"gfx/leaders/Navy/Portrait_Holland_Hubert_von_Frijtag_Drabbe.dds"
+		}
+	}
+}
+
+AST = {
+	army = {
+		male = {
+			"gfx/leaders/Army/Portrait_Andrew_McNaughton.dds"
+			"gfx/leaders/Army/Portrait_Georgi_Nikolov_Popov.dds"
+			"gfx/leaders/Army/Portrait_Guy_Simonds.dds"
+			"gfx/leaders/Army/Portrait_Harry_Crerar.dds"
+			"gfx/leaders/Army/Portrait_Jakob_Harberts.dds"
+			"gfx/leaders/Army/portrait_Jan_Van_Andel.dds"
+			"gfx/leaders/Army/Portrait_Carl_Gustaf_Fleischer.dds"
+			"gfx/leaders/Army/Portrait_Folke_Bernadotte.dds"
+			"gfx/leaders/Army/Portrait_Charles_Lockwood.dds"
+			"gfx/leaders/Army/Portrait_Ronald_Scobie.dds"
+			"gfx/leaders/Army/Portrait_Richard_McCreery.dds"
+			"gfx/leaders/Army/Portrait_Kenneth_Anderson.dds"
+			"gfx/leaders/Army/Portrait_John_Dill.dds"
+			"gfx/leaders/Army/Portrait_John_Crocker.dds"
+			"gfx/leaders/Army/Portrait_Herbert_Lumsden.dds"
+			"gfx/leaders/Army/Portrait_Frederick_Browning.dds"
+			"gfx/leaders/Army/Portrait_Edmond_Schreiber.dds"
+			"gfx/leaders/Army/Portrait_Bernard_Paget.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alfred_Jansa.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alois_Schonburg_Hartenstein.dds"
+			"gfx/leaders/Army/Portrait_Austria_Eduard_Barger.dds"
+			"gfx/leaders/Army/Portrait_Austria_Franz_Bohme.dds"
+			"gfx/leaders/Army/Portrait_Austria_Karl_Eglseer.dds"
+			"gfx/leaders/Army/Portrait_Austria_Siegmund_Knaus.dds"
+			"gfx/leaders/Army/Portrait_Austria_Sigismund_Schilhawsky.dds"
+			"gfx/leaders/Army/Portrait_Canada_Thomas_Victor_Anderson.dds"
+			"gfx/leaders/Army/Portrait_Britain_Edmund_Ironside.dds"
+			"gfx/leaders/Army/Portrait_Britain_Percy_Hobart.dds"
+			"gfx/leaders/Army/Portrait_Norway_Otto_Ruge.dds"
+			"gfx/leaders/Army/Portrait_Vilho_Petter_Nenonen.dds" 
+			"gfx/leaders/Army/Portrait_Erik_Heinrichs.dds"
+			"gfx/leaders/Army/Portrait_Aleksandr_Vasilevsky.dds" 
+			"gfx/leaders/Army/Portrait_Humberto_Sosa_Molina.dds" 
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Navy/Portrait_Arthur_Palliser.dds"
+			"gfx/leaders/Navy/Portrait_Max_Horton.dds"
+			"gfx/leaders/Navy/Portrait_Percy_Noble.dds"
+			"gfx/leaders/Navy/Portrait_Tom_Phillips.dds"
+			"gfx/leaders/Navy/Portrait_Britain_Louis_Mountbatten.dds"
+			"gfx/leaders/Navy/Portrait_France_Emile_Muselier.dds"
+			"gfx/leaders/Navy/Portrait_Holland_Hubert_von_Frijtag_Drabbe.dds"
+		}
+	}
+}
+
+CAN = {
+	army = {
+		male = {
+			"gfx/leaders/Army/Portrait_Andrew_McNaughton.dds"
+			"gfx/leaders/Army/Portrait_Georgi_Nikolov_Popov.dds"
+			"gfx/leaders/Army/Portrait_Guy_Simonds.dds"
+			"gfx/leaders/Army/Portrait_Harry_Crerar.dds"
+			"gfx/leaders/Army/Portrait_Jakob_Harberts.dds"
+			"gfx/leaders/Army/portrait_Jan_Van_Andel.dds"
+			"gfx/leaders/Army/Portrait_Carl_Gustaf_Fleischer.dds"
+			"gfx/leaders/Army/Portrait_Folke_Bernadotte.dds"
+			"gfx/leaders/Army/Portrait_Charles_Lockwood.dds"
+			"gfx/leaders/Army/Portrait_Ronald_Scobie.dds"
+			"gfx/leaders/Army/Portrait_Richard_McCreery.dds"
+			"gfx/leaders/Army/Portrait_Kenneth_Anderson.dds"
+			"gfx/leaders/Army/Portrait_John_Dill.dds"
+			"gfx/leaders/Army/Portrait_John_Crocker.dds"
+			"gfx/leaders/Army/Portrait_Herbert_Lumsden.dds"
+			"gfx/leaders/Army/Portrait_Frederick_Browning.dds"
+			"gfx/leaders/Army/Portrait_Edmond_Schreiber.dds"
+			"gfx/leaders/Army/Portrait_Bernard_Paget.dds"	
+			"gfx/leaders/Army/Portrait_Austria_Alfred_Jansa.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alois_Schonburg_Hartenstein.dds"
+			"gfx/leaders/Army/Portrait_Austria_Eduard_Barger.dds"
+			"gfx/leaders/Army/Portrait_Austria_Franz_Bohme.dds"
+			"gfx/leaders/Army/Portrait_Austria_Karl_Eglseer.dds"
+			"gfx/leaders/Army/Portrait_Austria_Siegmund_Knaus.dds"
+			"gfx/leaders/Army/Portrait_Austria_Sigismund_Schilhawsky.dds"
+			"gfx/leaders/Army/Portrait_Canada_Thomas_Victor_Anderson.dds"
+			"gfx/leaders/Army/Portrait_Britain_Edmund_Ironside.dds"
+			"gfx/leaders/Army/Portrait_Britain_Percy_Hobart.dds"
+			"gfx/leaders/Army/Portrait_Norway_Otto_Ruge.dds"	
+			"gfx/leaders/Army/Portrait_Vilho_Petter_Nenonen.dds" 
+			"gfx/leaders/Army/Portrait_Erik_Heinrichs.dds"
+			"gfx/leaders/Army/Portrait_Aleksandr_Vasilevsky.dds" 
+			"gfx/leaders/Army/Portrait_Humberto_Sosa_Molina.dds" 		
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Navy/Portrait_Arthur_Palliser.dds"
+			"gfx/leaders/Navy/Portrait_Max_Horton.dds"
+			"gfx/leaders/Navy/Portrait_Percy_Noble.dds"
+			"gfx/leaders/Navy/Portrait_Tom_Phillips.dds"
+			"gfx/leaders/Navy/Portrait_Britain_Louis_Mountbatten.dds"
+			"gfx/leaders/Navy/Portrait_France_Emile_Muselier.dds"
+			"gfx/leaders/Navy/Portrait_Holland_Hubert_von_Frijtag_Drabbe.dds"
+		}
+	}
+}
+
+NZL = {
+	army = {
+		male = {
+			"gfx/leaders/Army/Portrait_Andrew_McNaughton.dds"
+			"gfx/leaders/Army/Portrait_Georgi_Nikolov_Popov.dds"
+			"gfx/leaders/Army/Portrait_Guy_Simonds.dds"
+			"gfx/leaders/Army/Portrait_Harry_Crerar.dds"
+			"gfx/leaders/Army/Portrait_Jakob_Harberts.dds"
+			"gfx/leaders/Army/portrait_Jan_Van_Andel.dds"
+			"gfx/leaders/Army/Portrait_Carl_Gustaf_Fleischer.dds"
+			"gfx/leaders/Army/Portrait_Folke_Bernadotte.dds"
+			"gfx/leaders/Army/Portrait_Charles_Lockwood.dds"
+			"gfx/leaders/Army/Portrait_Ronald_Scobie.dds"
+			"gfx/leaders/Army/Portrait_Richard_McCreery.dds"
+			"gfx/leaders/Army/Portrait_Kenneth_Anderson.dds"
+			"gfx/leaders/Army/Portrait_John_Dill.dds"
+			"gfx/leaders/Army/Portrait_John_Crocker.dds"
+			"gfx/leaders/Army/Portrait_Herbert_Lumsden.dds"
+			"gfx/leaders/Army/Portrait_Frederick_Browning.dds"
+			"gfx/leaders/Army/Portrait_Edmond_Schreiber.dds"
+			"gfx/leaders/Army/Portrait_Bernard_Paget.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alfred_Jansa.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alois_Schonburg_Hartenstein.dds"
+			"gfx/leaders/Army/Portrait_Austria_Eduard_Barger.dds"
+			"gfx/leaders/Army/Portrait_Austria_Franz_Bohme.dds"
+			"gfx/leaders/Army/Portrait_Austria_Karl_Eglseer.dds"
+			"gfx/leaders/Army/Portrait_Austria_Siegmund_Knaus.dds"
+			"gfx/leaders/Army/Portrait_Austria_Sigismund_Schilhawsky.dds"
+			"gfx/leaders/Army/Portrait_Canada_Thomas_Victor_Anderson.dds"
+			"gfx/leaders/Army/Portrait_Britain_Edmund_Ironside.dds"
+			"gfx/leaders/Army/Portrait_Britain_Percy_Hobart.dds"
+			"gfx/leaders/Army/Portrait_Norway_Otto_Ruge.dds"
+			"gfx/leaders/Army/Portrait_Vilho_Petter_Nenonen.dds" 
+			"gfx/leaders/Army/Portrait_Erik_Heinrichs.dds"
+			"gfx/leaders/Army/Portrait_Aleksandr_Vasilevsky.dds" 
+			"gfx/leaders/Army/Portrait_Humberto_Sosa_Molina.dds" 
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Navy/Portrait_Arthur_Palliser.dds"
+			"gfx/leaders/Navy/Portrait_Max_Horton.dds"
+			"gfx/leaders/Navy/Portrait_Percy_Noble.dds"
+			"gfx/leaders/Navy/Portrait_Tom_Phillips.dds"
+			"gfx/leaders/Navy/Portrait_Britain_Louis_Mountbatten.dds"
+			"gfx/leaders/Navy/Portrait_France_Emile_Muselier.dds"
+			"gfx/leaders/Navy/Portrait_Holland_Hubert_von_Frijtag_Drabbe.dds"
+		}
+	}
+}
+
+FRA = {
+	army = {
+		male = {
+			"gfx/leaders/Army/Portrait_Andrew_McNaughton.dds"
+			"gfx/leaders/Army/Portrait_Georgi_Nikolov_Popov.dds"
+			"gfx/leaders/Army/Portrait_Guy_Simonds.dds"
+			"gfx/leaders/Army/Portrait_Harry_Crerar.dds"
+			"gfx/leaders/Army/Portrait_Jakob_Harberts.dds"
+			"gfx/leaders/Army/portrait_Jan_Van_Andel.dds"
+			"gfx/leaders/Army/Portrait_Carl_Gustaf_Fleischer.dds"
+			"gfx/leaders/Army/Portrait_Folke_Bernadotte.dds"
+			"gfx/leaders/Army/Portrait_Charles_Lockwood.dds"
+			"gfx/leaders/Army/Portrait_Ronald_Scobie.dds"
+			"gfx/leaders/Army/Portrait_Richard_McCreery.dds"
+			"gfx/leaders/Army/Portrait_Kenneth_Anderson.dds"
+			"gfx/leaders/Army/Portrait_John_Dill.dds"
+			"gfx/leaders/Army/Portrait_John_Crocker.dds"
+			"gfx/leaders/Army/Portrait_Herbert_Lumsden.dds"
+			"gfx/leaders/Army/Portrait_Frederick_Browning.dds"
+			"gfx/leaders/Army/Portrait_Edmond_Schreiber.dds"
+			"gfx/leaders/Army/Portrait_Bernard_Paget.dds"
+			"gfx/leaders/Army/Portrait_France_Aime_Doumenc.dds"
+			"gfx/leaders/Army/Portrait_France_Andre_Corap.dds"
+			"gfx/leaders/Army/Portrait_France_Charles_De_Gaulle.dds"
+			"gfx/leaders/Army/Portrait_France_Charles_Marie_Conde.dds"
+			"gfx/leaders/Army/Portrait_France_Emile_Laure.dds"
+			"gfx/leaders/Army/Portrait_France_Gaston_Billotte.dds"
+			"gfx/leaders/Army/Portrait_France_Georges_Blanchard.dds"
+			"gfx/leaders/Army/Portrait_France_Marie_Pierre_Koenig.dds"
+			"gfx/leaders/Army/Portrait_France_Paul_Legentilhomme.dds"
+			"gfx/leaders/Army/Portrait_France_Rene_Olry.dds"
+			"gfx/leaders/Army/Portrait_France_Rene_Prioux.dds"
+			"gfx/leaders/Army/Portrait_France_Robert_Auguste_Touchon.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Navy/Portrait_Arthur_Palliser.dds"
+			"gfx/leaders/Navy/Portrait_Max_Horton.dds"
+			"gfx/leaders/Navy/Portrait_Percy_Noble.dds"
+			"gfx/leaders/Navy/Portrait_Tom_Phillips.dds"
+			"gfx/leaders/Navy/Portrait_France_Emile_Muselier.dds"
+			"gfx/leaders/Navy/Portrait_Britain_Louis_Mountbatten.dds"
+			"gfx/leaders/Navy/Portrait_France_Emile_Muselier.dds"
+			"gfx/leaders/Navy/Portrait_Holland_Hubert_von_Frijtag_Drabbe.dds"
+		}
+	}
+}
+
+ITA = {
+	army = {
+		male = {
+			"gfx/leaders/Army/Portrait_Andrew_McNaughton.dds"
+			"gfx/leaders/Army/Portrait_Georgi_Nikolov_Popov.dds"
+			"gfx/leaders/Army/Portrait_Guy_Simonds.dds"
+			"gfx/leaders/Army/Portrait_Harry_Crerar.dds"
+			"gfx/leaders/Army/Portrait_Jakob_Harberts.dds"
+			"gfx/leaders/Army/portrait_Jan_Van_Andel.dds"
+			"gfx/leaders/Army/Portrait_Carl_Gustaf_Fleischer.dds"
+			"gfx/leaders/Army/Portrait_Folke_Bernadotte.dds"
+			"gfx/leaders/Army/Portrait_Charles_Lockwood.dds"
+			"gfx/leaders/Army/Portrait_Ronald_Scobie.dds"
+			"gfx/leaders/Army/Portrait_Richard_McCreery.dds"
+			"gfx/leaders/Army/Portrait_Kenneth_Anderson.dds"
+			"gfx/leaders/Army/Portrait_John_Dill.dds"
+			"gfx/leaders/Army/Portrait_John_Crocker.dds"
+			"gfx/leaders/Army/Portrait_Herbert_Lumsden.dds"
+			"gfx/leaders/Army/Portrait_Frederick_Browning.dds"
+			"gfx/leaders/Army/Portrait_Edmond_Schreiber.dds"
+			"gfx/leaders/Army/Portrait_Bernard_Paget.dds"
+			"gfx/leaders/Army/Portrait_Italy_Ettore_Bastico.dds" #Italian general, NOT in-game
+			"gfx/leaders/Army/Portrait_Italy_Vittorio_Ambrosio.dds" #Italian general, NOT in-game
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Navy/Portrait_Arthur_Palliser.dds"
+			"gfx/leaders/Navy/Portrait_Max_Horton.dds"
+			"gfx/leaders/Navy/Portrait_Percy_Noble.dds"
+			"gfx/leaders/Navy/Portrait_Tom_Phillips.dds"
+			"gfx/leaders/Navy/Portrait_Britain_Louis_Mountbatten.dds"
+			"gfx/leaders/Navy/Portrait_France_Emile_Muselier.dds"
+			"gfx/leaders/Navy/Portrait_Holland_Hubert_von_Frijtag_Drabbe.dds"
+		}
+	}
+}
+
+USA = {
+	army = {
+		male = {
+			"gfx/leaders/Army/Portrait_Andrew_McNaughton.dds"
+			"gfx/leaders/Army/Portrait_Georgi_Nikolov_Popov.dds"
+			"gfx/leaders/Army/Portrait_Guy_Simonds.dds"
+			"gfx/leaders/Army/Portrait_Harry_Crerar.dds"
+			"gfx/leaders/Army/Portrait_Jakob_Harberts.dds"
+			"gfx/leaders/Army/portrait_Jan_Van_Andel.dds"
+			"gfx/leaders/Army/Portrait_Carl_Gustaf_Fleischer.dds"
+			"gfx/leaders/Army/Portrait_Folke_Bernadotte.dds"
+			"gfx/leaders/Army/Portrait_Charles_Lockwood.dds"
+			"gfx/leaders/Army/Portrait_Ronald_Scobie.dds"
+			"gfx/leaders/Army/Portrait_Richard_McCreery.dds"
+			"gfx/leaders/Army/Portrait_Kenneth_Anderson.dds"
+			"gfx/leaders/Army/Portrait_John_Dill.dds"
+			"gfx/leaders/Army/Portrait_John_Crocker.dds"
+			"gfx/leaders/Army/Portrait_Herbert_Lumsden.dds"
+			"gfx/leaders/Army/Portrait_Frederick_Browning.dds"
+			"gfx/leaders/Army/Portrait_Edmond_Schreiber.dds"
+			"gfx/leaders/Army/Portrait_Bernard_Paget.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alfred_Jansa.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alois_Schonburg_Hartenstein.dds"
+			"gfx/leaders/Army/Portrait_Austria_Eduard_Barger.dds"
+			"gfx/leaders/Army/Portrait_Austria_Franz_Bohme.dds"
+			"gfx/leaders/Army/Portrait_Austria_Karl_Eglseer.dds"
+			"gfx/leaders/Army/Portrait_Austria_Siegmund_Knaus.dds"
+			"gfx/leaders/Army/Portrait_Austria_Sigismund_Schilhawsky.dds"
+			"gfx/leaders/Army/Portrait_Canada_Thomas_Victor_Anderson.dds"
+			"gfx/leaders/Army/Portrait_Britain_Edmund_Ironside.dds"
+			"gfx/leaders/Army/Portrait_Britain_Percy_Hobart.dds"
+			"gfx/leaders/Army/Portrait_Norway_Otto_Ruge.dds"
+			"gfx/leaders/Army/Portrait_Vilho_Petter_Nenonen.dds" 
+			"gfx/leaders/Army/Portrait_Erik_Heinrichs.dds"
+			"gfx/leaders/Army/Portrait_Aleksandr_Vasilevsky.dds" 
+			"gfx/leaders/Army/Portrait_Humberto_Sosa_Molina.dds" 
+			"gfx/leaders/Army/Portrait_Pershing_Military.dds" #American general, NOT in-game
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Navy/Portrait_Arthur_Palliser.dds"
+			"gfx/leaders/Navy/Portrait_Max_Horton.dds"
+			"gfx/leaders/Navy/Portrait_Percy_Noble.dds"
+			"gfx/leaders/Navy/Portrait_Tom_Phillips.dds"
+			"gfx/leaders/Navy/Portrait_Britain_Louis_Mountbatten.dds"
+			"gfx/leaders/Navy/Portrait_France_Emile_Muselier.dds"
+			"gfx/leaders/Navy/Portrait_Holland_Hubert_von_Frijtag_Drabbe.dds"
+		}
+	}
+}
+
+SAF = {
+	army = {
+		male = {
+			"gfx/leaders/Army/Portrait_Andrew_McNaughton.dds"
+			"gfx/leaders/Army/Portrait_Georgi_Nikolov_Popov.dds"
+			"gfx/leaders/Army/Portrait_Guy_Simonds.dds"
+			"gfx/leaders/Army/Portrait_Harry_Crerar.dds"
+			"gfx/leaders/Army/Portrait_Jakob_Harberts.dds"
+			"gfx/leaders/Army/portrait_Jan_Van_Andel.dds"
+			"gfx/leaders/Army/Portrait_Carl_Gustaf_Fleischer.dds"
+			"gfx/leaders/Army/Portrait_Folke_Bernadotte.dds"
+			"gfx/leaders/Army/Portrait_Charles_Lockwood.dds"
+			"gfx/leaders/Army/Portrait_Ronald_Scobie.dds"
+			"gfx/leaders/Army/Portrait_Richard_McCreery.dds"
+			"gfx/leaders/Army/Portrait_Kenneth_Anderson.dds"
+			"gfx/leaders/Army/Portrait_John_Dill.dds"
+			"gfx/leaders/Army/Portrait_John_Crocker.dds"
+			"gfx/leaders/Army/Portrait_Herbert_Lumsden.dds"
+			"gfx/leaders/Army/Portrait_Frederick_Browning.dds"
+			"gfx/leaders/Army/Portrait_Edmond_Schreiber.dds"
+			"gfx/leaders/Army/Portrait_Bernard_Paget.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alfred_Jansa.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alois_Schonburg_Hartenstein.dds"
+			"gfx/leaders/Army/Portrait_Austria_Eduard_Barger.dds"
+			"gfx/leaders/Army/Portrait_Austria_Franz_Bohme.dds"
+			"gfx/leaders/Army/Portrait_Austria_Karl_Eglseer.dds"
+			"gfx/leaders/Army/Portrait_Austria_Siegmund_Knaus.dds"
+			"gfx/leaders/Army/Portrait_Austria_Sigismund_Schilhawsky.dds"
+			"gfx/leaders/Army/Portrait_Canada_Thomas_Victor_Anderson.dds"
+			"gfx/leaders/Army/Portrait_Britain_Edmund_Ironside.dds"
+			"gfx/leaders/Army/Portrait_Britain_Percy_Hobart.dds"
+			"gfx/leaders/Army/Portrait_Norway_Otto_Ruge.dds"
+			"gfx/leaders/Army/Portrait_Vilho_Petter_Nenonen.dds" 
+			"gfx/leaders/Army/Portrait_Erik_Heinrichs.dds"
+			"gfx/leaders/Army/Portrait_Aleksandr_Vasilevsky.dds" 
+			"gfx/leaders/Army/Portrait_Humberto_Sosa_Molina.dds" 
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Navy/Portrait_Arthur_Palliser.dds"
+			"gfx/leaders/Navy/Portrait_Max_Horton.dds"
+			"gfx/leaders/Navy/Portrait_Percy_Noble.dds"
+			"gfx/leaders/Navy/Portrait_Tom_Phillips.dds"
+			"gfx/leaders/Navy/Portrait_Britain_Louis_Mountbatten.dds"
+			"gfx/leaders/Navy/Portrait_France_Emile_Muselier.dds"
+			"gfx/leaders/Navy/Portrait_Holland_Hubert_von_Frijtag_Drabbe.dds"
+		}
+	}
+}
+
+SAF_COM = {
+	army = {
+		male = {
+			"gfx/leaders/Army/Portrait_Andrew_McNaughton.dds"
+			"gfx/leaders/Army/Portrait_Georgi_Nikolov_Popov.dds"
+			"gfx/leaders/Army/Portrait_Guy_Simonds.dds"
+			"gfx/leaders/Army/Portrait_Harry_Crerar.dds"
+			"gfx/leaders/Army/Portrait_Jakob_Harberts.dds"
+			"gfx/leaders/Army/portrait_Jan_Van_Andel.dds"
+			"gfx/leaders/Army/Portrait_Carl_Gustaf_Fleischer.dds"
+			"gfx/leaders/Army/Portrait_Folke_Bernadotte.dds"
+			"gfx/leaders/Army/Portrait_Charles_Lockwood.dds"
+			"gfx/leaders/Army/Portrait_Ronald_Scobie.dds"
+			"gfx/leaders/Army/Portrait_Richard_McCreery.dds"
+			"gfx/leaders/Army/Portrait_Kenneth_Anderson.dds"
+			"gfx/leaders/Army/Portrait_John_Dill.dds"
+			"gfx/leaders/Army/Portrait_John_Crocker.dds"
+			"gfx/leaders/Army/Portrait_Herbert_Lumsden.dds"
+			"gfx/leaders/Army/Portrait_Frederick_Browning.dds"
+			"gfx/leaders/Army/Portrait_Edmond_Schreiber.dds"
+			"gfx/leaders/Army/Portrait_Bernard_Paget.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alfred_Jansa.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alois_Schonburg_Hartenstein.dds"
+			"gfx/leaders/Army/Portrait_Austria_Eduard_Barger.dds"
+			"gfx/leaders/Army/Portrait_Austria_Franz_Bohme.dds"
+			"gfx/leaders/Army/Portrait_Austria_Karl_Eglseer.dds"
+			"gfx/leaders/Army/Portrait_Austria_Siegmund_Knaus.dds"
+			"gfx/leaders/Army/Portrait_Austria_Sigismund_Schilhawsky.dds"
+			"gfx/leaders/Army/Portrait_Canada_Thomas_Victor_Anderson.dds"
+			"gfx/leaders/Army/Portrait_Britain_Edmund_Ironside.dds"
+			"gfx/leaders/Army/Portrait_Britain_Percy_Hobart.dds"
+			"gfx/leaders/Army/Portrait_Norway_Otto_Ruge.dds"			
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Navy/Portrait_Arthur_Palliser.dds"
+			"gfx/leaders/Navy/Portrait_Max_Horton.dds"
+			"gfx/leaders/Navy/Portrait_Percy_Noble.dds"
+			"gfx/leaders/Navy/Portrait_Tom_Phillips.dds"
+			"gfx/leaders/Navy/Portrait_Britain_Louis_Mountbatten.dds"
+			"gfx/leaders/Navy/Portrait_France_Emile_Muselier.dds"
+			"gfx/leaders/Navy/Portrait_Holland_Hubert_von_Frijtag_Drabbe.dds"
+		}
+	}
+}
+
+RAJ_UK = {
+	army = {
+		male = {
+			"gfx/leaders/Army/Portrait_Andrew_McNaughton.dds"
+			"gfx/leaders/Army/Portrait_Georgi_Nikolov_Popov.dds"
+			"gfx/leaders/Army/Portrait_Guy_Simonds.dds"
+			"gfx/leaders/Army/Portrait_Harry_Crerar.dds"
+			"gfx/leaders/Army/Portrait_Jakob_Harberts.dds"
+			"gfx/leaders/Army/portrait_Jan_Van_Andel.dds"
+			"gfx/leaders/Army/Portrait_Carl_Gustaf_Fleischer.dds"
+			"gfx/leaders/Army/Portrait_Folke_Bernadotte.dds"
+			"gfx/leaders/Army/Portrait_Charles_Lockwood.dds"
+			"gfx/leaders/Army/Portrait_Ronald_Scobie.dds"
+			"gfx/leaders/Army/Portrait_Richard_McCreery.dds"
+			"gfx/leaders/Army/Portrait_Kenneth_Anderson.dds"
+			"gfx/leaders/Army/Portrait_John_Dill.dds"
+			"gfx/leaders/Army/Portrait_John_Crocker.dds"
+			"gfx/leaders/Army/Portrait_Herbert_Lumsden.dds"
+			"gfx/leaders/Army/Portrait_Frederick_Browning.dds"
+			"gfx/leaders/Army/Portrait_Edmond_Schreiber.dds"
+			"gfx/leaders/Army/Portrait_Bernard_Paget.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alfred_Jansa.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alois_Schonburg_Hartenstein.dds"
+			"gfx/leaders/Army/Portrait_Austria_Eduard_Barger.dds"
+			"gfx/leaders/Army/Portrait_Austria_Franz_Bohme.dds"
+			"gfx/leaders/Army/Portrait_Austria_Karl_Eglseer.dds"
+			"gfx/leaders/Army/Portrait_Austria_Siegmund_Knaus.dds"
+			"gfx/leaders/Army/Portrait_Austria_Sigismund_Schilhawsky.dds"
+			"gfx/leaders/Army/Portrait_Canada_Thomas_Victor_Anderson.dds"
+			"gfx/leaders/Army/Portrait_Britain_Edmund_Ironside.dds"
+			"gfx/leaders/Army/Portrait_Britain_Percy_Hobart.dds"
+			"gfx/leaders/Army/Portrait_Norway_Otto_Ruge.dds"
+			"gfx/leaders/Army/Portrait_Vilho_Petter_Nenonen.dds" 
+			"gfx/leaders/Army/Portrait_Erik_Heinrichs.dds"
+			"gfx/leaders/Army/Portrait_Aleksandr_Vasilevsky.dds" 
+			"gfx/leaders/Army/Portrait_Humberto_Sosa_Molina.dds" 
+			"gfx/leaders/Army/Portrait_Jayanto_Nath_Chaudhuri.dds"
+			"gfx/leaders/Army/Portrait_Archibald_Wavell.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Navy/Portrait_Arthur_Palliser.dds"
+			"gfx/leaders/Navy/Portrait_Max_Horton.dds"
+			"gfx/leaders/Navy/Portrait_Percy_Noble.dds"
+			"gfx/leaders/Navy/Portrait_Tom_Phillips.dds"
+			"gfx/leaders/Navy/Portrait_Britain_Louis_Mountbatten.dds"
+			"gfx/leaders/Navy/Portrait_France_Emile_Muselier.dds"
+			"gfx/leaders/Navy/Portrait_Holland_Hubert_von_Frijtag_Drabbe.dds"
+		}
+	}
+}
+
+MAL_UK = {
+	army = {
+		male = {
+			"gfx/leaders/Army/Portrait_Andrew_McNaughton.dds"
+			"gfx/leaders/Army/Portrait_Georgi_Nikolov_Popov.dds"
+			"gfx/leaders/Army/Portrait_Guy_Simonds.dds"
+			"gfx/leaders/Army/Portrait_Harry_Crerar.dds"
+			"gfx/leaders/Army/Portrait_Jakob_Harberts.dds"
+			"gfx/leaders/Army/portrait_Jan_Van_Andel.dds"
+			"gfx/leaders/Army/Portrait_Carl_Gustaf_Fleischer.dds"
+			"gfx/leaders/Army/Portrait_Folke_Bernadotte.dds"
+			"gfx/leaders/Army/Portrait_Charles_Lockwood.dds"
+			"gfx/leaders/Army/Portrait_Ronald_Scobie.dds"
+			"gfx/leaders/Army/Portrait_Richard_McCreery.dds"
+			"gfx/leaders/Army/Portrait_Kenneth_Anderson.dds"
+			"gfx/leaders/Army/Portrait_John_Dill.dds"
+			"gfx/leaders/Army/Portrait_John_Crocker.dds"
+			"gfx/leaders/Army/Portrait_Herbert_Lumsden.dds"
+			"gfx/leaders/Army/Portrait_Frederick_Browning.dds"
+			"gfx/leaders/Army/Portrait_Edmond_Schreiber.dds"
+			"gfx/leaders/Army/Portrait_Bernard_Paget.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alfred_Jansa.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alois_Schonburg_Hartenstein.dds"
+			"gfx/leaders/Army/Portrait_Austria_Eduard_Barger.dds"
+			"gfx/leaders/Army/Portrait_Austria_Franz_Bohme.dds"
+			"gfx/leaders/Army/Portrait_Austria_Karl_Eglseer.dds"
+			"gfx/leaders/Army/Portrait_Austria_Siegmund_Knaus.dds"
+			"gfx/leaders/Army/Portrait_Austria_Sigismund_Schilhawsky.dds"
+			"gfx/leaders/Army/Portrait_Canada_Thomas_Victor_Anderson.dds"
+			"gfx/leaders/Army/Portrait_Britain_Edmund_Ironside.dds"
+			"gfx/leaders/Army/Portrait_Britain_Percy_Hobart.dds"
+			"gfx/leaders/Army/Portrait_Norway_Otto_Ruge.dds"			
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Navy/Portrait_Arthur_Palliser.dds"
+			"gfx/leaders/Navy/Portrait_Max_Horton.dds"
+			"gfx/leaders/Navy/Portrait_Percy_Noble.dds"
+			"gfx/leaders/Navy/Portrait_Tom_Phillips.dds"
+			"gfx/leaders/Navy/Portrait_Britain_Louis_Mountbatten.dds"
+			"gfx/leaders/Navy/Portrait_France_Emile_Muselier.dds"
+			"gfx/leaders/Navy/Portrait_Holland_Hubert_von_Frijtag_Drabbe.dds"
+		}
+	}
+}
+
+SPR = {
+	army = {
+		male = {
+			"gfx/leaders/Army/Portrait_Andrew_McNaughton.dds"
+			"gfx/leaders/Army/Portrait_Georgi_Nikolov_Popov.dds"
+			"gfx/leaders/Army/Portrait_Guy_Simonds.dds"
+			"gfx/leaders/Army/Portrait_Harry_Crerar.dds"
+			"gfx/leaders/Army/Portrait_Jakob_Harberts.dds"
+			"gfx/leaders/Army/portrait_Jan_Van_Andel.dds"
+			"gfx/leaders/Army/Portrait_Carl_Gustaf_Fleischer.dds"
+			"gfx/leaders/Army/Portrait_Folke_Bernadotte.dds"
+			"gfx/leaders/Army/Portrait_Charles_Lockwood.dds"
+			"gfx/leaders/Army/Portrait_Ronald_Scobie.dds"
+			"gfx/leaders/Army/Portrait_Richard_McCreery.dds"
+			"gfx/leaders/Army/Portrait_Kenneth_Anderson.dds"
+			"gfx/leaders/Army/Portrait_John_Dill.dds"
+			"gfx/leaders/Army/Portrait_John_Crocker.dds"
+			"gfx/leaders/Army/Portrait_Herbert_Lumsden.dds"
+			"gfx/leaders/Army/Portrait_Frederick_Browning.dds"
+			"gfx/leaders/Army/Portrait_Edmond_Schreiber.dds"
+			"gfx/leaders/Army/Portrait_Bernard_Paget.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alfred_Jansa.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alois_Schonburg_Hartenstein.dds"
+			"gfx/leaders/Army/Portrait_Austria_Eduard_Barger.dds"
+			"gfx/leaders/Army/Portrait_Austria_Franz_Bohme.dds"
+			"gfx/leaders/Army/Portrait_Austria_Karl_Eglseer.dds"
+			"gfx/leaders/Army/Portrait_Austria_Siegmund_Knaus.dds"
+			"gfx/leaders/Army/Portrait_Austria_Sigismund_Schilhawsky.dds"
+			"gfx/leaders/Army/Portrait_Canada_Thomas_Victor_Anderson.dds"
+			"gfx/leaders/Army/Portrait_Britain_Edmund_Ironside.dds"
+			"gfx/leaders/Army/Portrait_Britain_Percy_Hobart.dds"
+			"gfx/leaders/Army/Portrait_Norway_Otto_Ruge.dds"
+			"gfx/leaders/Army/Portrait_Vilho_Petter_Nenonen.dds" 
+			"gfx/leaders/Army/Portrait_Erik_Heinrichs.dds"
+			"gfx/leaders/Army/Portrait_Aleksandr_Vasilevsky.dds" 
+			"gfx/leaders/Army/Portrait_Humberto_Sosa_Molina.dds" 
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Navy/Portrait_Arthur_Palliser.dds"
+			"gfx/leaders/Navy/Portrait_Max_Horton.dds"
+			"gfx/leaders/Navy/Portrait_Percy_Noble.dds"
+			"gfx/leaders/Navy/Portrait_Tom_Phillips.dds"
+			"gfx/leaders/Navy/Portrait_Britain_Louis_Mountbatten.dds"
+			"gfx/leaders/Navy/Portrait_France_Emile_Muselier.dds"
+			"gfx/leaders/Navy/Portrait_Holland_Hubert_von_Frijtag_Drabbe.dds"
+		}
+	}
+}
+
+INS_HOL = {
+	army = {
+		male = {
+			"gfx/leaders/Army/Portrait_Andrew_McNaughton.dds"
+			"gfx/leaders/Army/Portrait_Georgi_Nikolov_Popov.dds"
+			"gfx/leaders/Army/Portrait_Guy_Simonds.dds"
+			"gfx/leaders/Army/Portrait_Harry_Crerar.dds"
+			"gfx/leaders/Army/Portrait_Jakob_Harberts.dds"
+			"gfx/leaders/Army/portrait_Jan_Van_Andel.dds"
+			"gfx/leaders/Army/Portrait_Carl_Gustaf_Fleischer.dds"
+			"gfx/leaders/Army/Portrait_Folke_Bernadotte.dds"
+			"gfx/leaders/Army/Portrait_Charles_Lockwood.dds"
+			"gfx/leaders/Army/Portrait_Ronald_Scobie.dds"
+			"gfx/leaders/Army/Portrait_Richard_McCreery.dds"
+			"gfx/leaders/Army/Portrait_Kenneth_Anderson.dds"
+			"gfx/leaders/Army/Portrait_John_Dill.dds"
+			"gfx/leaders/Army/Portrait_John_Crocker.dds"
+			"gfx/leaders/Army/Portrait_Herbert_Lumsden.dds"
+			"gfx/leaders/Army/Portrait_Frederick_Browning.dds"
+			"gfx/leaders/Army/Portrait_Edmond_Schreiber.dds"
+			"gfx/leaders/Army/Portrait_Bernard_Paget.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alfred_Jansa.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alois_Schonburg_Hartenstein.dds"
+			"gfx/leaders/Army/Portrait_Austria_Eduard_Barger.dds"
+			"gfx/leaders/Army/Portrait_Austria_Franz_Bohme.dds"
+			"gfx/leaders/Army/Portrait_Austria_Karl_Eglseer.dds"
+			"gfx/leaders/Army/Portrait_Austria_Siegmund_Knaus.dds"
+			"gfx/leaders/Army/Portrait_Austria_Sigismund_Schilhawsky.dds"
+			"gfx/leaders/Army/Portrait_Canada_Thomas_Victor_Anderson.dds"
+			"gfx/leaders/Army/Portrait_Britain_Edmund_Ironside.dds"
+			"gfx/leaders/Army/Portrait_Britain_Percy_Hobart.dds"
+			"gfx/leaders/Army/Portrait_Norway_Otto_Ruge.dds"
+			"gfx/leaders/Army/Portrait_Vilho_Petter_Nenonen.dds" 
+			"gfx/leaders/Army/Portrait_Erik_Heinrichs.dds"
+			"gfx/leaders/Army/Portrait_Aleksandr_Vasilevsky.dds" 
+			"gfx/leaders/Army/Portrait_Humberto_Sosa_Molina.dds" 
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Navy/Portrait_Arthur_Palliser.dds"
+			"gfx/leaders/Navy/Portrait_Max_Horton.dds"
+			"gfx/leaders/Navy/Portrait_Percy_Noble.dds"
+			"gfx/leaders/Navy/Portrait_Tom_Phillips.dds"
+			"gfx/leaders/Navy/Portrait_Britain_Louis_Mountbatten.dds"
+			"gfx/leaders/Navy/Portrait_France_Emile_Muselier.dds"
+			"gfx/leaders/Navy/Portrait_Holland_Hubert_von_Frijtag_Drabbe.dds"
+		}
+	}
+}
+
+HOL = {
+	army = {
+		male = {
+			"gfx/leaders/Army/Portrait_Andrew_McNaughton.dds"
+			"gfx/leaders/Army/Portrait_Georgi_Nikolov_Popov.dds"
+			"gfx/leaders/Army/Portrait_Guy_Simonds.dds"
+			"gfx/leaders/Army/Portrait_Harry_Crerar.dds"
+			"gfx/leaders/Army/Portrait_Jakob_Harberts.dds"
+			"gfx/leaders/Army/portrait_Jan_Van_Andel.dds"
+			"gfx/leaders/Army/Portrait_Carl_Gustaf_Fleischer.dds"
+			"gfx/leaders/Army/Portrait_Folke_Bernadotte.dds"
+			"gfx/leaders/Army/Portrait_Charles_Lockwood.dds"
+			"gfx/leaders/Army/Portrait_Ronald_Scobie.dds"
+			"gfx/leaders/Army/Portrait_Richard_McCreery.dds"
+			"gfx/leaders/Army/Portrait_Kenneth_Anderson.dds"
+			"gfx/leaders/Army/Portrait_John_Dill.dds"
+			"gfx/leaders/Army/Portrait_John_Crocker.dds"
+			"gfx/leaders/Army/Portrait_Herbert_Lumsden.dds"
+			"gfx/leaders/Army/Portrait_Frederick_Browning.dds"
+			"gfx/leaders/Army/Portrait_Edmond_Schreiber.dds"
+			"gfx/leaders/Army/Portrait_Bernard_Paget.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alfred_Jansa.dds"
+			"gfx/leaders/Army/Portrait_Austria_Alois_Schonburg_Hartenstein.dds"
+			"gfx/leaders/Army/Portrait_Austria_Eduard_Barger.dds"
+			"gfx/leaders/Army/Portrait_Austria_Franz_Bohme.dds"
+			"gfx/leaders/Army/Portrait_Austria_Karl_Eglseer.dds"
+			"gfx/leaders/Army/Portrait_Austria_Siegmund_Knaus.dds"
+			"gfx/leaders/Army/Portrait_Austria_Sigismund_Schilhawsky.dds"
+			"gfx/leaders/Army/Portrait_Canada_Thomas_Victor_Anderson.dds"
+			"gfx/leaders/Army/Portrait_Britain_Edmund_Ironside.dds"
+			"gfx/leaders/Army/Portrait_Britain_Percy_Hobart.dds"
+			"gfx/leaders/Army/Portrait_Norway_Otto_Ruge.dds"
+			"gfx/leaders/Army/Portrait_Vilho_Petter_Nenonen.dds" 
+			"gfx/leaders/Army/Portrait_Erik_Heinrichs.dds"
+			"gfx/leaders/Army/Portrait_Aleksandr_Vasilevsky.dds" 
+			"gfx/leaders/Army/Portrait_Humberto_Sosa_Molina.dds" 
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Navy/Portrait_Arthur_Palliser.dds"
+			"gfx/leaders/Navy/Portrait_Max_Horton.dds"
+			"gfx/leaders/Navy/Portrait_Percy_Noble.dds"
+			"gfx/leaders/Navy/Portrait_Tom_Phillips.dds"
+			"gfx/leaders/Navy/Portrait_Britain_Louis_Mountbatten.dds"
+			"gfx/leaders/Navy/Portrait_France_Emile_Muselier.dds"
+			"gfx/leaders/Navy/Portrait_Holland_Hubert_von_Frijtag_Drabbe.dds"
+		}
+	}
+
+}

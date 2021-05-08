@@ -1,0 +1,19 @@
+spriteTypes = {
+####Weapons####
+	SpriteType = {
+	    name = "GFX_NOR_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/NOR/NOR_rifle_krag_jorgensen_m1894.dds"
+	}
+	SpriteType = {
+		name = "GFX_NOR_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/NOR/NOR_rifle_krag_jorgensen_m1912_18.dds"
+	}
+	SpriteType = {
+		name = "GFX_NOR_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/FIN/FIN_smg_kp31.dds"
+	}
+	SpriteType = {
+		name = "GFX_NOR_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/ENG/ENG_smg_sten_V.dds"
+	}		
+}	

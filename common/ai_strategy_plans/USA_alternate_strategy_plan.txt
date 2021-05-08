@@ -1,0 +1,2 @@
+USA_alternate_plan_1 = {
+}

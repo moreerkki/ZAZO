@@ -1,0 +1,86 @@
+### MOD
+
+entity = {
+	clone = "commonwealth_gfx_infantry_entity"
+	pdxmesh = "MI_ENG_infantry_rifle_1_desert_mesh"
+	name = "commonwealth_gfx_infantry_entity_desert"
+}
+
+entity = {
+	clone = "commonwealth_gfx_infantry_2_entity"
+	pdxmesh = "MI_ENG_infantry_rifle_1_desert_mesh"
+	name = "commonwealth_gfx_infantry_entity_desert"
+}
+
+entity = {
+	clone = "commonwealth_gfx_infantry_3_entity"
+	pdxmesh = "MI_ENG_infantry_rifle_1_desert_mesh"
+	name = "commonwealth_gfx_infantry_entity_desert"
+}
+
+entity = {
+	clone = "GER_infantry_entity"
+	pdxmesh = "MI_GER_infantry_rifle_1_snow_mesh"
+	name = "GER_infantry_entity_snow"
+}
+
+entity = {
+	clone = "GER_infantry_entity"
+	name = "GER_infantry_2_entity"
+}
+
+entity = {
+	clone = "GER_infantry_entity"
+	name = "GER_infantry_3_entity"
+}
+
+entity = {
+	clone = "ITA_infantry_entity"
+	pdxmesh = "MI_ITA_infantry_rifle_1_desert_mesh"
+	name = "ITA_infantry_entity_desert"
+}
+
+entity = {
+	clone = "ITA_infantry_2_entity"
+	pdxmesh = "MI_ITA_infantry_rifle_1_desert_mesh"
+	name = "ITA_infantry_entity_desert"
+}
+
+entity = {
+	clone = "ITA_infantry_3_entity"
+	pdxmesh = "MI_ITA_infantry_rifle_1_desert_mesh"
+	name = "ITA_infantry_entity_desert"
+}
+
+entity = { 
+	clone = "infantry_2_entity"
+	name = "SOV_infantry_2_entity"
+	pdxmesh = "MI_SOV_infantry_mg_2_mesh"	
+	
+	attach = { 	name = "rifle1"	Right_Hand_node = "SOV_infantry_weapon_mg_right_entity" }	
+	attach = { 	name = "rifle2"	Left_Hand_node = "SOV_infantry_weapon_mg_left_entity" }
+	attach = { 	name = "rifle3"	mid_back_node = "SOV_infantry_weapon_mg_long_idle_entity" }
+	attach = { 	name = "rifle4"	Root_node_2 = "SOV_infantry_weapon_rifle_right_entity" }
+	
+	attach = { 	name = "lighter"			Right_Hand_node_4 = "lighter_entity" }
+	attach = { 	name = "cigarette1"			Right_Hand_node_2 = "cigarette_entity" }
+	attach = { 	name = "cigarette_package1"	Right_Hand_node_3 = "cigarette_package_entity" }
+	attach = { 	name = "cigarette_package2"	Left_Hand_node_2 = "cigarette_package_entity" }
+	attach = { 	name = "cigarette2"			Root_node_1 = "cigarette_entity" }
+}
+
+entity = { 
+	clone = "SOV_infantry_2_entity"
+	name = "SOV_infantry_3_entity"
+}
+
+entity = { 
+	clone = "SOV_infantry_2_entity"
+	name = "SOV_infantry_entity"
+}
+
+entity = {
+	clone = "SOV_infantry_2_entity"
+	pdxmesh = "MI_SOV_infantry_mg_2_snow_mesh"
+	name = "SOV_infantry_2_entity_snow"
+}

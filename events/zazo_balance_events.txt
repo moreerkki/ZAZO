@@ -1,0 +1,74 @@
+add_namespace = zazo.start.event
+
+country_event = {
+	
+	id = zazo.start.event.1
+	title = zazo.start.event.1.title
+	desc = zazo.start.event.1.description
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		date < 1936.1.5
+		is_ai = yes
+	}
+	
+	option = {
+		name = zazo.start.event.1.option_yes
+		
+		if = {
+			limit= {
+			
+					OR = {
+						tag = YUG
+						tag = GRE
+						tag = CZE
+						tag = POL
+						tag = BEL
+						tag = HOL
+						tag = DEN
+						tag = NOR
+						tag = LUX
+						tag = FIN
+						tag = MEX
+						tag = TAG
+						tag = MEN
+						tag = MAN
+						tag = MON
+						tag = TAN
+						tag = INS
+						tag = MAL
+						tag = PHI
+						tag = ALB
+						tag = EST
+						tag = LIT
+						tag = LAT
+						tag = IRQ
+					}
+			
+			}
+
+			hidden_effect = {
+				add_ideas = zazo_balance
+				
+				set_rule = { #DLC
+					can_not_declare_war = yes
+				}
+						
+			}			
+		
+		}else ={
+		
+		}
+		ai_chance = { factor = 100 }
+		
+	}
+	
+	option = {
+		name = zazo.start.event.1.option_no
+		
+		ai_chance = { factor = 0 }
+		
+		
+	}	
+}

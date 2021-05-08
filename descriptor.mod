@@ -1,0 +1,10 @@
+version="1.10.5"
+tags={
+	"Military"
+	"Gameplay"
+	"Technologies"
+	"Balance"
+}
+name="ZAZO"
+supported_version="1.10.5"
+remote_file_id="2466318476"

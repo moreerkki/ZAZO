@@ -1,0 +1,3 @@
+JAP_manchukuo_player_plan = {
+
+}

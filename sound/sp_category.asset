@@ -1,0 +1,18 @@
+######################################
+category = {
+ name = "speeches"
+ soundeffects = {
+	sp_anschluss
+	sp_itajoinwars
+	sp_marcobridge
+	sp_order227
+	sp_dday
+	sp_neversur
+	sp_declearwarpoland
+	sp_sovietanthem
+	sp_cairo
+	sp_japantheme
+	sp_allieswin
+	sp_nein
+ }
+}
