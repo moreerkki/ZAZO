@@ -43,14 +43,11 @@ ITA_historical_plan = {
 		ITA_extra_tech_slot 						#April 30 1938	
 		ITA_special_forces 							#July 10 1938	
 		ITA_capital_ships 							#September 20 1938
-		ITA_bulgaria_friend 						#November 30 1938
 		ITA_albania_war_goal 						#February 10 1939	
-		ITA_pact_of_steel 							#April 20 1939	
 		ITA_escort_effort 							#June 30 1939
 		ITA_submarine_effort 						#September 10 1939	
 		ITA_italian_highways 						#November 20 1939	
 		ITA_carrier_effort 							#January 30 1940
-		ITA_romania_friend  						#April 10 1940
 		ITA_bomber_effort 							#June 20 1940	
 		ITA_greece_war_goal  						#August 30 1940
 		ITA_german_rd_treaty 						#November 10 1940

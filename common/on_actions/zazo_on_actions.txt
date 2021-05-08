@@ -37,5 +37,15 @@ on_actions = {
 				}
 				
 			}
+			
+			TUR = {
+			load_focus_tree = generic_focus
+			}
+			MEX = {
+			load_focus_tree = generic_focus
+			}
+			POR = {
+			load_focus_tree = generic_focus
+			}
 		}
 	}

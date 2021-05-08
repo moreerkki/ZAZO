@@ -121,7 +121,6 @@ bookmarks = {
 			focuses = {
 				ITA_victoryinETH
 				ITA_slovenia_dalmatia_claims
-				ITA_pact_of_steel
 			}		
 		}
 		"JAP"={

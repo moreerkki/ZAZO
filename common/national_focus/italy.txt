@@ -1583,50 +1583,11 @@
 	}
 
 	focus = {
-		id = ITA_bulgaria_friend
-		icon = GFX_goal_italy_ally_bulgaria
-		prerequisite = { focus = ITA_slovenia_dalmatia_claims }
-		x = -1
-		y = 1
-		relative_position_id = ITA_slovenia_dalmatia_claims
-		cost = 10
-		ai_will_do = {
-			factor = 1
-		}
-		available = {
-			NOT = {
-				has_war_with = BUL
-			}
-		}
-		bypass = {
-			NOT = { country_exists = BUL }
-		}
-		completion_reward = {
-			BUL = {
-				add_opinion_modifier = { target = ITA modifier = ita_diplomacy_focus }
-				if = {
-					limit = { ROOT = { has_government = fascism } }
-					add_timed_idea = { idea = fascist_influence days = 1095 }
-				}
-				if = {
-					limit = { ROOT = { has_government = democratic } }
-					add_timed_idea = { idea = democratic_influence days = 1095 }
-				}
-				if = {
-					limit = { ROOT = { has_government = communism } }
-					add_timed_idea = { idea = communist_influence days = 1095 }
-				}
-				country_event = { id = generic.1 }
-			}
-		}
-	}
-
-	focus = {
 		id = ITA_albania_war_goal
 		icon = focus_BUL_albanian_inheritance
 		prerequisite = { focus = ITA_slovenia_dalmatia_claims }
 		will_lead_to_war_with = ALB
-		x = 1
+		x = -1
 		y = 1
 		relative_position_id = ITA_slovenia_dalmatia_claims
 		
@@ -1650,111 +1611,17 @@
 	}
 
 	focus = {
-		id = ITA_pact_of_steel
-		icon = GFX_goal_indyclone_ally_italy
-		prerequisite = { focus = ITA_bulgaria_friend }
-		#mutually_exclusive = { focus = ITA_italy_first }
-		available = {
-			NOT = { has_war_with = GER }
-			custom_trigger_tooltip = {
-				tooltip = ITA_germ_italy_same_tt
-				OR = {
-					AND = {
-						has_government = fascism
-						GER = { 
-							has_government = fascism 
-							country_exists = GER
-						}
-					}
-					AND = {
-						has_government = neutrality
-						GER = { 
-							has_government = neutrality
-							country_exists = GER
-						}
-					}
-					AND = {
-						has_government = communism
-						GER = { 
-							has_government = communism
-							country_exists = GER
-						}
-					}
-					AND = {
-						has_government = democratic
-						GER = { 
-							has_government = democratic
-							country_exists = GER
-						}
-					}
-				}
-			}
-			NOT = { has_country_flag = ENG_ditched_by_the_germans_flag }
-			is_in_faction = no
-		}
-		bypass = {
-			is_in_faction = yes
-			is_in_faction_with = GER
-		}
-		x = 0
-		y = 1
-		relative_position_id = ITA_bulgaria_friend
-		cost = 10
-		ai_will_do = {
-			factor = 10
-
-			modifier = {
-				factor = 0.5
-				ai_irrationality > 20
-			}
-
-			modifier = {
-				factor = 0.5
-				ai_irrationality > 25
-			}
-
-			modifier = {
-				factor = 0.1
-				ai_irrationality > 30
-			}
-
-			modifier = {
-				factor = 0
-				OR = {
-					GER = { has_completed_focus = GER_reestablish_free_elections }
-					GER = { has_completed_focus = GER_expatriate_the_communists }
-				}
-			}
-		}
-		completion_reward = {
-			GER = {
-				add_opinion_modifier = { target = ITA modifier = pact_of_steel_opinion }
-			}
-			hidden_effect = {
-				news_event = { hours = 6 id = news.184 }
-			}
-			
-			GER = { add_to_faction = ITA }
-			
-			hidden_effect = {
-			sound_effect = sp_itajoinwars
-			}
-		}
-	}
-
-	focus = {
 		id = ITA_german_millitary_cooperation
 		icon = GFX_goal_further_military_cooperation_with_germany
-		prerequisite = { focus = ITA_pact_of_steel }
+		prerequisite = { focus = ITA_greece_war_goal }
 
 		available = {
 			NOT = { has_war_with = GER }
 			NOT = { has_country_flag = ENG_ditched_by_the_germans_flag }
 		}
 		
-		x = -2
-		y = 1
-		relative_position_id = ITA_pact_of_steel
+		x = 17
+		y = 3
 		cost = 10
 		ai_will_do = {
 			factor = 10
@@ -1771,8 +1638,7 @@
 	# focus = {
 		# id = ITA_italy_first
 		# icon = GFX_focus_generic_italy_first
-		# prerequisite = { focus = ITA_bulgaria_friend }
-		# mutually_exclusive = { focus = ITA_pact_of_steel }
+		# mutually_exclusive = { focus = ITA_slovenia_dalmatia_claims }
 		# available = {
 			# is_subject = no
 			# NOT = { has_war_with = BUL }
@@ -1797,7 +1663,6 @@
 		# }
 		# x = 1
 		# y = 1
-		# relative_position_id = ITA_bulgaria_friend
 		# cost = 10
 		# ai_will_do = {
 			# factor = 2.5
@@ -1894,65 +1759,18 @@
 				# generator = { 1 735 458 }
 			# }
 		# }
-	# }	
-
-	focus = {
-		id = ITA_romania_friend
-		icon = GFX_focus_chi_reach_out_to_romania2
-		prerequisite = { focus = ITA_bulgaria_friend }
-		x = 3
-		y = 1
-		relative_position_id = ITA_bulgaria_friend
-		cost = 10
-		ai_will_do = {
-			factor = 1
-		}
-		available = {
-			country_exists = ROM
-			NOT = {
-				has_war_with = ROM
-			}
-			has_government = fascism
-		}
-		bypass = {
-			ROM = {
-				OR = {
-					NOT = { country_exists = ROM }
-					has_capitulated = yes
-				}
-			}
-		}
-		completion_reward = {
-			ROM = {
-				add_opinion_modifier = { target = ITA modifier = ita_diplomacy_focus }
-				if = {
-					limit = { ROOT = { has_government = fascism } }
-					add_timed_idea = { idea = fascist_influence days = 1095 }
-				}
-				if = {
-					limit = { ROOT = { has_government = democratic } }
-					add_timed_idea = { idea = democratic_influence days = 1095 }
-				}
-				if = {
-					limit = { ROOT = { has_government = communism } }
-					add_timed_idea = { idea = communist_influence days = 1095 }
-				}
-				country_event = { id = generic.1 }
-			}
-		}
-	}
+	# }
 
 	focus = {
 		id = ITA_german_rd_treaty
 		icon = GFX_goal_italo_croat_legion
-		prerequisite = { focus = ITA_pact_of_steel }
+		prerequisite = { focus = ITA_greece_war_goal }
 		available = {
 			NOT = { has_country_flag = ENG_ditched_by_the_germans_flag }
 		}
 		cancel = { has_war_with = GER }
-		x = 0
-		y = 1
-		relative_position_id = ITA_pact_of_steel
+		x = 19
+		y = 3
 		cost = 10
 		ai_will_do = {
 			factor = 1
@@ -2109,7 +1927,7 @@
 	focus = {
 		id = ITA_greece_war_goal
 		icon = GFX_focus_focus_ITA_balkan
-		prerequisite = { focus = ITA_pact_of_steel }
+		prerequisite = { focus = ITA_slovenia_dalmatia_claims }
 		#mutually_exclusive = { focus = ITA_greece_friend }
 		available = {
 			NOT = { is_in_faction_with = GRE }
@@ -2118,9 +1936,9 @@
 			country_exists = GRE
 		}
 		will_lead_to_war_with = GRE
-		x = 2
+		x = 1
 		y = 1
-		relative_position_id = ITA_pact_of_steel
+		relative_position_id = ITA_slovenia_dalmatia_claims
 		cost = 10
 		ai_will_do = {
 			factor = 10
