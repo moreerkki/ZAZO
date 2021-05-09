@@ -27,7 +27,7 @@ sub_units = {
 		need = {
 			artillery_equipment = 20
 		}
-		manpower = 300
+		manpower = 250
 		training_time = 120
 		max_organisation = 1
 		default_morale = 0.1
@@ -74,7 +74,7 @@ sub_units = {
 			rocket_artillery_equipment = 20
 		}
 
-		manpower = 300
+		manpower = 250
 		training_time = 120
 		max_organisation = 1
 		default_morale = 0.1

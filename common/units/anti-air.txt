@@ -38,10 +38,10 @@ sub_units = {
 		max_strength = 1
 		max_organisation = 1
 		default_morale = 0.1
-		manpower = 300
+		manpower = 250
 		weight = 0.1
 		
-        supply_consumption = 0.1
+        supply_consumption = 0.05
 
 		# Support nerfs to combat abilities
 		defense = -0.5
